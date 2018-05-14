@@ -14,7 +14,7 @@
 <div id="header">
 </div>
 <h1 id="toon-weyens">Toon <span style="color: #BD5D38;">Weyens</span></h1>
-<h2 class="h2_subtitle" id="aix-en-provence-france-32-494-39-92-19-weyenstgmail.com"><span class="fas fa-location-arrow"></span> Aix-en-Provence, France · <span class="fas fa-phone"></span> +32 494 39 92 19 · <span class="fas fa-envelope"></span> <script type="text/javascript">
+<h2 class="h2_subtitle" id="aix-en-provence-france-32-494-39-92-19-weyenstgmail.com">➤ Aix-en-Provence, France · ✆ +32 494 39 92 19 · ✉ <script type="text/javascript">
 <!--
 h='&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;';a='&#64;';n='&#x77;&#x65;&#x79;&#x65;&#110;&#x73;&#116;';e=n+a+h;
 document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
@@ -23,7 +23,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <div style="text-align:center; margin-bottom:15px">
 <a href="https://www.linkedin.com/in/toonweyens/" target="_blank"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i> </span> </a> 
 <a href="https://github.com/toonweyens" target="_blank"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fab fa-github fa-stack-1x fa-inverse"></i> </span> </a> 
-<a href="https://scholar.google.com/citations?user=pn68uq0AAAAJ&hl=en&oi=sra" target="_blank"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fab fa-google fa-stack-1x fa-inverse"></i> </span> </a> 
+<a href="https://scholar.google.com/citations?user=pn68uq0AAAAJ&amp;hl=en&amp;oi=sra">Google Scholar</a></p>
 </div>
 <hr />
 <blockquote>
@@ -89,32 +89,32 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <dd><table>
 <tbody>
 <tr class="odd">
-<td style="min-width:120px"  align="left">English</td>
-<td style="min-width:120px"  align="left"><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span></td>
+<td align="left">English</td>
+<td align="left">★★★★★</td>
 </tr>
 <tr class="even">
-<td style="min-width:120px"  align="left">Dutch</td>
-<td style="min-width:120px"  align="left"><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span></td>
+<td align="left">Dutch</td>
+<td align="left">★★★★★</td>
 </tr>
 <tr class="odd">
-<td style="min-width:120px"  align="left">Spanish</td>
-<td style="min-width:120px"  align="left"><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span></td>
+<td align="left">Spanish</td>
+<td align="left">★★★★★</td>
 </tr>
 <tr class="even">
-<td style="min-width:120px"  align="left">French</td>
-<td style="min-width:120px"  align="left"><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="far fa-star"></span></td>
+<td align="left">French</td>
+<td align="left">★★★★☆</td>
 </tr>
 <tr class="odd">
-<td style="min-width:120px"  align="left">German</td>
-<td style="min-width:120px"  align="left"><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="far fa-star"></span></td>
+<td align="left">German</td>
+<td align="left">★★★★☆</td>
 </tr>
 <tr class="even">
-<td style="min-width:120px"  align="left">Portuguese</td>
-<td style="min-width:120px"  align="left"><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="far fa-star"></span><span class="far fa-star"></span></td>
+<td align="left">Portuguese</td>
+<td align="left">★★★☆☆</td>
 </tr>
 <tr class="odd">
-<td style="min-width:120px"  align="left">Italian</td>
-<td style="min-width:120px"  align="left"><span class="fas fa-star"></span><span class="fas fa-star"></span><span class="far fa-star"></span><span class="far fa-star"></span><span class="far fa-star"></span></td>
+<td align="left">Italian</td>
+<td align="left">★★☆☆☆</td>
 </tr>
 </tbody>
 </table>
@@ -124,7 +124,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <li><strong><a href="https://www.linux.org/">Linux</a></strong> · daily and much-preferred operating system</li>
 <li><strong><a href="https://www.vim.org/">vim</a></strong> · daily and much-preferred editor</li>
 <li><strong><a href="https://www.latex-project.org/">LaTeX</a></strong> · preferred tool for documents</li>
-<li><strong><a href="https://www.w3.org/standards/webdesign/htmlcss">html, CSS</a></strong> · used for this curriculum vitae (with markdown <span class="fas fa-arrow-right"></span> Pandoc)</li>
+<li><strong><a href="https://www.w3.org/standards/webdesign/htmlcss">html, CSS</a></strong> · used for this curriculum vitae (with markdown → Pandoc)</li>
 <li><strong><a href="https://git-scm.com/">git</a></strong> · for version control of virtually all my documents and projects</li>
 <li><strong><a href="https://www.paraview.org/">ParaView</a>, <a href="https://visit.llnl.gov/">VisIt</a></strong> · favorite 3-D visualization tools, combined with HDF5 and XDMF</li>
 <li><strong><a href="https://www.hdfgroup.org/HDF5/">HDF5</a> with <a href="https://xmswiki.com/wiki/XMDF">XDMF</a></strong> · best data model, both for storage and for visualization</li>
@@ -169,50 +169,50 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 </dl>
 <h2 id="references">References</h2>
 <dl>
-<dt><span class="fas fa-user"></span></dt>
+<dt>👤</dt>
 <dd><p><strong>Dr. Alberto Loarte</strong></p>
 <p><em>Science Division head at ITER Organization · scientific officer at the European Commission</em></p>
 <table>
 <tbody>
 <tr class="odd">
-<td style="min-width:120px"  align="left"><span class="fas fa-envelope"></span></td>
-<td style="min-width:120px"  align="left"><a href="alberto.loarte@iter.org" class="uri">alberto.loarte@iter.org</a></td>
+<td align="left">✉</td>
+<td align="left"><a href="alberto.loarte@iter.org" class="uri">alberto.loarte@iter.org</a></td>
 </tr>
 <tr class="even">
-<td style="min-width:120px"  align="left"><span class="fas fa-phone"></span></td>
-<td style="min-width:120px"  align="left">+33 4 42 176508</td>
+<td align="left">✆</td>
+<td align="left">+33 4 42 176508</td>
 </tr>
 </tbody>
 </table>
 </dd>
-<dt><span class="fas fa-user"></span></dt>
+<dt>👤</dt>
 <dd><p><strong>Prof. Dr. Guido Huijsmans</strong></p>
 <p><em>full professor at Eindhoven University of Technology · scientific officer at the European Commission</em></p>
 <table>
 <tbody>
 <tr class="odd">
-<td style="min-width:120px"  align="left"><span class="fas fa-envelope"></span></td>
-<td style="min-width:120px"  align="left"><a href="guido.huijsmans@cea.fr" class="uri">guido.huijsmans@cea.fr</a></td>
+<td align="left">✉</td>
+<td align="left"><a href="guido.huijsmans@cea.fr" class="uri">guido.huijsmans@cea.fr</a></td>
 </tr>
 <tr class="even">
-<td style="min-width:120px"  align="left"><span class="fas fa-phone"></span></td>
-<td style="min-width:120px"  align="left">+33 4 42 256152</td>
+<td align="left">✆</td>
+<td align="left">+33 4 42 256152</td>
 </tr>
 </tbody>
 </table>
 </dd>
-<dt><span class="fas fa-user"></span></dt>
+<dt>👤</dt>
 <dd><p><strong>Prof. Dr. Raul Sánchez</strong></p>
 <p><em>full professor at Universidad Carlos III de Madrid</em></p>
 <table>
 <tbody>
 <tr class="odd">
-<td style="min-width:120px"  align="left"><span class="fas fa-envelope"></span></td>
-<td style="min-width:120px"  align="left"><a href="rsanchez@fis.uc3m.es" class="uri">rsanchez@fis.uc3m.es</a></td>
+<td align="left">✉</td>
+<td align="left"><a href="rsanchez@fis.uc3m.es" class="uri">rsanchez@fis.uc3m.es</a></td>
 </tr>
 <tr class="even">
-<td style="min-width:120px"  align="left"><span class="fas fa-phone"></span></td>
-<td style="min-width:120px"  align="left">+34 91 6246001</td>
+<td align="left">✆</td>
+<td align="left">+34 91 6246001</td>
 </tr>
 </tbody>
 </table>
@@ -220,7 +220,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 </dl>
 <hr />
 <blockquote>
-<p><span class="fas fa-location-arrow"></span> Aix-en-Provence, France · <span class="fas fa-phone"></span> +32 494 39 92 19 · <span class="fas fa-envelope"></span> <script type="text/javascript">
+<p>➤ Aix-en-Provence, France · ✆ +32 494 39 92 19 · ✉ <script type="text/javascript">
 <!--
 h='&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;';a='&#64;';n='&#x77;&#x65;&#x79;&#x65;&#110;&#x73;&#116;';e=n+a+h;
 document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');

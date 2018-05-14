@@ -1,132 +1,195 @@
-Christophe-Marie Duquesne
-=========================
+Toon Weyens
+===========
+
+➤ Aix-en-Provence, France · ✆ +32 494 39 92 19 · ✉  <weyenst@gmail.com>
+-----------------------------------------------------------------------
+> [LinkedIn](https://www.linkedin.com/in/toonweyens/)  
+> [GitHub](http://github.com/toonweyens)  
+> [Google Scholar](https://scholar.google.com/citations?user=pn68uq0AAAAJ&hl=en&oi=sra)
 
 ----
 
->  Specialties: C++, Python, Linux, Operations Research\
->  Doctor in Computer Science and Mathematics
+>  Through my background in general energy engineering, as well as my Ph.D. specialized in nuclear fusion science, I am well suited to tackle any problem where anlytical insight and higher mathematics is necessary, without losing sight of the big picture. This is backed up by extensive computational physics knowledge. As working in a dynamic multicultural and multilingual environment challenges and motivates me, I am always looking for new opportunities to learn. Furthermore, I enjoy sports, music, traveling, mathematics and reading.
 
 ----
 
-Corporate Experience
---------------------
+postal address:
+:   43 Koerselsebaan · 3550 Heusden-Zolder · Belgium
 
-Since 2013
-:   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
-    (Frankfurt am Main, Germany).
+nationality:
+:   Belgian
 
-    Data mining on various sources to forecast passenger demands over
-    airline networks.
+date of birth:
+:   30/12/1987
 
-2009-2012
-:   *PhD in Operations Research with
-    [Amadeus](http://www.amadeus.com/amadeus/amadeus.html)* (Sophia
-    Antipolis, France).
+----
 
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
+Experience
+----------
 
-2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
-    (Clermont Ferrand, France).
+Jan 13 - Now
+:   **Postdoctoral Monaco Fellow**
+    
+    *[ITER Organization](http://iter.org/)*
 
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
+    The numerical code PB3D, developed as part of my Ph.D. project is put to use at the ITER project to support the development of next-generation toroidal magnetic fusion devices.
+    Have a look at the PB3D project [below](#PB3D_project).
 
-2007 (3 months)
-:   *Internship at [GE
-    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
-    France).
+Jan 12 - Dec 16
+:   **Doctoral Researcher**
+    
+    *[Universidad Carlos III de Madrid](https://www.uc3m.es/) · [Eindhoven University of Technology](https://www.tue.nl/) · [ITER Organization](http://iter.org/)*
 
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
-
-Selected Open Source Contributions
-----------------------------------
-
-Python
-:   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
-    linear programming Python library. Author of small tools, like
-    [michel](https://github.com/chmduquesne/michel), a command line
-    program providing bidirectionnal synchronization of google tasks
-    with text files.
-
-C++
-:   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python binding to COIN-OSI that is now supported by
-    [pulp-or](http://code.google.com/p/pulp-or/).
-
-C
-:   Author of
-    [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
-    set of proxy libraries targeting cplex, gurobi and xpress. I also
-    started writing
-    [sharebox](https://github.com/chmduquesne/sharebox-fs), a
-    distributed FUSE file system based on git.
-
-Java
-:   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
-    android application allowing phone control via gtalk. It had 10.000+
-    downloads, and was forked 50 times. It was then successfully handed
-    over to [other developers](http://code.google.com/p/gtalksms/).
-
-Misc
-:   Lua, Ada, Bash, Makefile, m4, autotools, cmake... See my [github
-    résumé](http://resume.github.com/?chmduquesne). My
-    [kudorank](http://meta.ohloh.net/kudos/) on ohloh is 9, among the
-    top 2% of opensource developers.
-
-Linux
-:   My daily operating system: I [blog](http://blog.chmd.fr) about it
-    sometimes.
+    My Ph.D. research project involved furthering the understanding of an important class of instabilities that occur in toroidal magnetic confinement devices for nuclear fusion, called *high-n* instabilities. 
+    A dedicated mathematical theory was developed [[Weyens et al, 2014, P.o.P, 21, 4]](https://www.researchgate.net/publication/263054885_Three-dimensional_linear_peeling-ballooning_theory_in_magnetic_fusion_devices) and a high-performance numerical code designed, PB3D [[Weyens et al, 2017, J.c.P, 330]](https://www.researchgate.net/publication/309620864_PB3D_A_new_code_for_edge_3-D_ideal_linear_peeling-ballooning_stability), in modern Fortran, making use of the MPI protocol for parallelization. 
+    Part of the work was done at the [ITER Organization](http://iter.org/), a multi-billion dolar project where world's most advanced nuclear fusion research reactor is being built.
 
 Education
 ---------
 
-2009-2012
-:   *PhD in Mathematics and Computer Science at G-SCOP Laboratory*
-    (Grenoble, France).
+Sep 10 - Aug 12
+:   **Master of Science - [Nuclear Fusion Science & Technology](http://www.em-master-fusion.org/)**
+    
+    *[Ghent University](https://www.ugent.be/en) · [Universidad Carlos III de Madrid](https://www.uc3m.es/) · [Université de Lorraine](www.univ-lorraine.fr/)*
+    
+    European program in the [Erasmus Mundus](https://ec.europa.eu/programmes/erasmus-plus/opportunities/individuals/students/erasmus-mundus-joint-master-degrees_en) framework. 
+    
+    Graduated top 5%.
 
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by [Semi
-    Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
-    Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](http://www.g-scop.inpg.fr/~brianto/index.php?page=1).
-    Defended in January 2013.
+Sep 08 - Aug 10
+:   **Master of Science - [Energy Engineering](http://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268954.htm )**
+    
+    *[University of Leuven](https://www.kuleuven.be/english/) · [Technische Universität Berlin](www.tu-berlin.de/) (exchange)*
 
-2005-2009
-:   *MS in Computer Science in ENSIMAG* (Grenoble, France).
+    Curriculum included mostly scientific but also economic and managerial aspects of energy. 
+    
+    Graduated top 15%.
 
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
+May 18
+:   **Online Specialization - [Deep Learning](https://www.coursera.org/specializations/deep-learning)**
+    
+    *[Coursera](https://www.coursera.org/)*
+    
+    The topics include the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects.
+    Neural network techniques such as convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more are treated.
+    There is a focus on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing.
+    These ideas are practiced in Python, and use is made of software packages [TensorFlow](https://www.tensorflow.org) as well as [Keras](https://keras.io/).
+    
+    workload: 60-100 hours
+    
+    certificate: [link](https://www.coursera.org/account/accomplishments/specialization/LGBBTZSV3E3S)
 
-2002-2005
-:   *Preparatory classes in Lycée Thiers* (Marseille, France).
+May 14
+:   **Summer School - [23rd Summer School on Parallel Computing](http://www.hpc.cineca.it/content/25th-summer-school-parallel-computing)**
+    
+    *[CINECA](https://www.cineca.it/en), Casalecchio Di Reno*
+    
+    The Summer School on Parallel Computing is an intense, 10 day, graduate level course in HPC, with the objective of providing the participants with the skills to program and exploit modern parallel computing systems to solve computational problems.
+    The school covers key topics focusing on HPC lexicon, parallel architectures, parallel programming models and methods, software engineering, profilers and debuggers.
+    
+    workload: 100 hours
 
-    Mathematics and Physics courses before a national competitive
-    examination to Grandes Écoles.
+Skills
+-----
+Languages
+:   |            |       |
+    | -----------| ----- |
+    | English    | ★★★★★ |
+    | Dutch      | ★★★★★ |
+    | Spanish    | ★★★★★ |
+    | French     | ★★★★☆ |
+    | German     | ★★★★☆ |
+    | Portuguese | ★★★☆☆ |
+    | Italian    | ★★☆☆☆ |
 
-Activities and interests
-------------------------
+Computer
+:   * **[Linux](https://www.linux.org/)** · daily and much-preferred operating system
+    * **[vim](https://www.vim.org/)** · daily and much-preferred editor
+    * **[LaTeX](https://www.latex-project.org/)** · preferred tool for documents
+    * **[html, CSS](https://www.w3.org/standards/webdesign/htmlcss)** · used for this curriculum vitae (with markdown → Pandoc)
+    * **[git](https://git-scm.com/)** · for version control of virtually all my documents and projects
+    * **[ParaView](https://www.paraview.org/), [VisIt](https://visit.llnl.gov/)** · favorite 3-D visualization tools, combined with HDF5 and XDMF
+    * **[HDF5](https://www.hdfgroup.org/HDF5/) with [XDMF](https://xmswiki.com/wiki/XMDF)** · best data model, both for storage and for visualization
 
-Hobbies
-:   I like travelling. I backpacked in 13 countries in Eastern Europe
-    and South East Asia.
+Programming
+:   * **Python** · preferred for most applications
+    * **Fortran** · used for hpc application such as [PB3D](https://toonweyens.github.io/PB3D/), lots of experience
+    * **MPI, OpenMP** · parallelization for HPC, most experience with MPI
+    * **Bash, Makefile, ...** · used daily for scripting and development
+    * **LaTeX, LuaTeX** · preferred for large documents, such as my Ph.D. [dissertation](https://toonweyens.github.io/PB3D/dissertation_TOON_WEYENS.pdf), lots of experience
 
-Sports
-:   Running, Cycling, Hiking. I also played rugby union for 7 years.
+Other
+:   * **[Fusion DC](http://www.em-fusion-dc.org/)** 2016 Program Representative
+    * **[TGD Solutions](http://tgdsolutions.net/)** board member
 
-Activities
-:   I was the president of the [grand
-    cercle](http://www.grandcercle.org), one of the largest French
-    campus student associations (5.000 members) during university.
+
+Research
+--------
+Jan 13 - now
+:   <a name="PB3D_project"></a>**PB3D**
+    
+    *Peeling-Ballooning in 3-D*
+    
+    PB3D (**P**eeling-**B**allooning in **3**-**D**} is a numerical code developed during as part of my doctoral research project.
+    It is capable of analyzing in an efficient manner the peeling-ballooning stability of toroidal magnetic confinement devices for nuclear fusion.
+    These so-called high-n instabilities are of importance in thee next generation of devices as they are easily excited and have the potential to couple plasma from the hot interior to the cold reactor walls.
+    PB3D is unique in that it is geared towards these high-n instabilities, in general 3-D configurations, while allowing for the plasma edge to be perturbed [[Weyens et al, 2017, J.c.P, 330]](https://www.researchgate.net/publication/309620864_PB3D_A_new_code_for_edge_3-D_ideal_linear_peeling-ballooning_stability).
+    
+    For my postdoctoral research I currently emply PB3D to investigate certain 3-D effects, such as the usage of resonant magnetic perturbations for ELM control--an important class of periodic instabilities that degradate confinement, with applications to ITER.
+    
+    The PB3D code is freely available and well-documented.
+    
+    website: [toonweyens.github.io/PB3D](https://toonweyens.github.io/PB3D/)
+    
+    source: [github](https://github.com/ToonWeyens/PB3D)
+
+
+Awards
+------
+2017
+:   **Ph.D. Research Award**
+    
+    *European Physical Society*
+    
+    The Award The Plasma Physics Division of the European Physical Society (EPS) shall grant up to four prizes annually to young scientists from the 38 European countries associated with the EPS in recognition of truly outstanding research achievements associated with their PhD study in the broad field of plasma physics. 
+    
+    website: [EPS](http://plasma.ciemat.es/eps/awards/phd-research-award/)
+
+
+References
+----------
+👤
+:   **Dr. Alberto Loarte**
+    
+    *Science Division head at ITER Organization · scientific officer at the European Commission*
+    
+    |    |                                                    |
+    | ---| -------------------------------------------------- |
+    | ✉  | [alberto.loarte@iter.org](alberto.loarte@iter.org) |
+    | ✆  | +33 4 42 176508                                    |
+
+👤
+:   **Prof. Dr. Guido Huijsmans**
+    
+    *full professor at Eindhoven University of Technology · scientific officer at the European Commission*
+    
+    |    |                                                  |
+    | ---| ------------------------------------------------ |
+    | ✉  | [guido.huijsmans@cea.fr](guido.huijsmans@cea.fr) |
+    | ✆  | +33 4 42 256152                                  |
+
+👤
+:   **Prof. Dr. Raul Sánchez**
+    
+    *full professor at Universidad Carlos III de Madrid*
+    
+    |    |                                              |
+    | ---| -------------------------------------------- |
+    | ✉  | [rsanchez@fis.uc3m.es](rsanchez@fis.uc3m.es) |
+    | ✆  | +34 91 6246001                               |
 
 ----
 
-> <chmd@chmd.fr> • +336 84 14 26 82 • 28 years old\
->  275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
+> ➤ Aix-en-Provence, France · ✆ +32 494 39 92 19 · ✉  <weyenst@gmail.com>
+
+> pdf version · html version
