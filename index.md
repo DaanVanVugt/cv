@@ -9,12 +9,9 @@ Toon Weyens
 
 ----
 
->  Through my background in general energy engineering, as well as my Ph.D. specialized in nuclear fusion science, I am well suited to tackle any problem where anlytical insight and higher mathematics is necessary, without losing sight of the big picture. This is backed up by extensive computational physics knowledge. As working in a dynamic multicultural and multilingual environment challenges and motivates me, I am always looking for new opportunities to learn. Furthermore, I enjoy sports, music, traveling, mathematics and reading.
+>  Through my background in general energy engineering, as well as my Ph.D. specialized in nuclear fusion science, I am well suited to tackle any problem where analytical insight and higher mathematics is necessary, without losing sight of the big picture. This is backed up by extensive computational physics knowledge. As working in a dynamic multicultural and multilingual environment challenges and motivates me, I am always looking for new opportunities to learn. Furthermore, I enjoy sports, music, traveling, mathematics and reading.
 
 ----
-
-postal address:
-:   43 Koerselsebaan · 3550 Heusden-Zolder · Belgium
 
 nationality:
 :   Belgian
@@ -192,5 +189,5 @@ References
 
 > ➤ Aix-en-Provence, France · ✆ +32 494 39 92 19 · ✉  <weyenst@gmail.com>
 
-> [pdf version](https://raw.githubusercontent.com/ToonWeyens/toonweyens.github.io/master/index.pdf) · [txt version](https://raw.githubusercontent.com/ToonWeyens/toonweyens.github.io/master/index.txt) · [html version](https://toonweyens.github.io/)
+> [pdf version](https://raw.githubusercontent.com/ToonWeyens/toonweyens.github.io/master/CV_ToonWeyens.pdf) · [txt version](https://raw.githubusercontent.com/ToonWeyens/toonweyens.github.io/master/CV_ToonWeyens.txt) · [html version](https://toonweyens.github.io/)
 
