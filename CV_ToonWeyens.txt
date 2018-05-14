@@ -194,7 +194,7 @@ Jan 13 - now
 
     The PB3D code is freely available and well-documented.
 
-    website: toonweyens.github.io/PB3D
+    website: PB3D.github.io
 
     source: github
 
@@ -257,4 +257,4 @@ References
 
   ➤ Aix-en-Provence, France · ✆ +32 494 39 92 19 · ✉ weyenst@gmail.com
 
-  pdf version · txt version · html version
+  pdf version · txt version · html version · source

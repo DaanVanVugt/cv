@@ -110,7 +110,7 @@ Computer
 
 Programming
 :   * **Python** · preferred for most applications
-    * **Fortran** · used for hpc application such as [PB3D](https://toonweyens.github.io/PB3D/), lots of experience
+    * **Fortran** · used for hpc application such as [PB3D](https://PB3D.github.io/), lots of experience
     * **MPI, OpenMP** · parallelization for HPC, most experience with MPI
     * **Bash, Make, ...** · used daily for scripting and development
     * **LaTeX, LuaTeX** · preferred for large documents, such as my Ph.D. [dissertation](https://toonweyens.github.io/PB3D/dissertation_TOON_WEYENS.pdf), lots of experience
@@ -136,7 +136,7 @@ Jan 13 - now
     
     The PB3D code is freely available and well-documented.
     
-    website: [toonweyens.github.io/PB3D](https://toonweyens.github.io/PB3D/)
+    website: [PB3D.github.io](https://PB3D.github.io/)
     
     source: [github](https://github.com/ToonWeyens/PB3D)
 
@@ -189,5 +189,5 @@ References
 
 > ➤ Aix-en-Provence, France · ✆ +32 494 39 92 19 · ✉  <weyenst@gmail.com>
 
-> [pdf version](https://raw.githubusercontent.com/ToonWeyens/toonweyens.github.io/master/CV_ToonWeyens.pdf) · [txt version](https://raw.githubusercontent.com/ToonWeyens/toonweyens.github.io/master/CV_ToonWeyens.txt) · [html version](https://toonweyens.github.io/)
+> [pdf version](https://raw.githubusercontent.com/ToonWeyens/toonweyens.github.io/master/CV_ToonWeyens.pdf) · [txt version](https://raw.githubusercontent.com/ToonWeyens/toonweyens.github.io/master/CV_ToonWeyens.txt) · [html version](https://toonweyens.github.io/) · [source](https://github.com/ToonWeyens/toonweyens.github.io)
 
