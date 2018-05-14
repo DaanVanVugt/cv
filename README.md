@@ -13,3 +13,8 @@
 ## List of changes:
 * Threw out Word.
 * renamed the txt and pdf files.
+
+## versions:
+* wkhtmltopdf: 0.12.2.4
+* pandoc: 1.16.0.2
+
