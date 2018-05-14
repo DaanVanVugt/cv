@@ -112,7 +112,7 @@ Programming
 :   * **Python** · preferred for most applications
     * **Fortran** · used for hpc application such as [PB3D](https://toonweyens.github.io/PB3D/), lots of experience
     * **MPI, OpenMP** · parallelization for HPC, most experience with MPI
-    * **Bash, Makefile, ...** · used daily for scripting and development
+    * **Bash, Make, ...** · used daily for scripting and development
     * **LaTeX, LuaTeX** · preferred for large documents, such as my Ph.D. [dissertation](https://toonweyens.github.io/PB3D/dissertation_TOON_WEYENS.pdf), lots of experience
 
 Other

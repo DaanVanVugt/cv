@@ -47,5 +47,5 @@ sed -i 's|➤|<span class="fas fa-location-arrow"></span>|g' index.html
 sed -i 's|👤|<span class="fas fa-user"></span>|g' index.html
 
 echo 'correct language table'
-portuguese_line=$(grep -n -m 1 'portuguese' index.html | cut -f1 -d":")
+portuguese_line=$(grep -n -i -m 1 'portuguese' index.html | cut -f1 -d":")
 sed -i ${portuguese_line}'s/<td/<td style="min-width:120px" /' index.html

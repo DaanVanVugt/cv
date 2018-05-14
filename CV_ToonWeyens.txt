@@ -13,7 +13,7 @@ TOON WEYENS
 
   Through my background in general energy engineering, as well as my
   Ph.D. specialized in nuclear fusion science, I am well suited to
-  tackle any problem where anlytical insight and higher mathematics is
+  tackle any problem where analytical insight and higher mathematics is
   necessary, without losing sight of the big picture. This is backed up
   by extensive computational physics knowledge. As working in a dynamic
   multicultural and multilingual environment challenges and motivates
@@ -158,7 +158,7 @@ Programming
     -   FORTRAN · used for hpc application such as PB3D, lots of
         experience
     -   MPI, OPENMP · parallelization for HPC, most experience with MPI
-    -   BASH, MAKEFILE, … · used daily for scripting and development
+    -   BASH, MAKE, … · used daily for scripting and development
     -   LATEX, LUATEX · preferred for large documents, such as my Ph.D.
         dissertation, lots of experience
 
