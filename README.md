@@ -11,6 +11,7 @@
 * Only tested on Linux.
 
 ## To do:
-* Only the html part is workin so far.
-* The extension to pdf needs some additional html tuning.
-* Not sure whether to also pursue Word and txt.
+* Not sure whether to also pursue Word.
+
+## List of changes:
+* txt, pdf and html output works fine

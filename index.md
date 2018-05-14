@@ -192,4 +192,5 @@ References
 
 > ➤ Aix-en-Provence, France · ✆ +32 494 39 92 19 · ✉  <weyenst@gmail.com>
 
-> pdf version · html version
+> [pdf version](https://raw.githubusercontent.com/ToonWeyens/toonweyens.github.io/master/index.pdf) · [txt version](https://raw.githubusercontent.com/ToonWeyens/toonweyens.github.io/master/index.txt) · [html version](https://toonweyens.github.io/)
+
