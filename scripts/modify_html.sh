@@ -35,6 +35,7 @@ do
     media_line=$(grep -n -m 1 ${names[$i-1]} index.html | cut -f1 -d":")
     sed -i.bak -e ${media_line}'d' index.html
     sed -i ${media_line}"i  <a href=\"${escaped_url}\" target=\"_blank\"> <span class=\"fa-stack fa-lg\"> <i class=\"fas fa-circle fa-stack-2x\"><\/i> <i class=\"fab fa-${names[$i-1]} fa-stack-1x fa-inverse\"><\/i> <\/span> <\/a> " index.html
+    rm *.bak
 done    
 
 echo 'fancify symbols'
