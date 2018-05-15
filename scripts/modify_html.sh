@@ -44,7 +44,7 @@ sed -i 's|☆|<span class="far fa-star"></span>|g' index.html
 sed -i 's|→|<span class="fas fa-arrow-right"></span>|g' index.html
 sed -i 's|✆|<span class="fas fa-phone"></span>|g' index.html
 sed -i 's|✉|<span class="fas fa-envelope"></span>|g' index.html
-sed -i 's|➤|<span class="fas fa-location-arrow"></span>|g' index.html
+sed -i 's|➤|<span class="fas fa-map-marker-alt"></span>|g' index.html
 sed -i 's|👤|<span class="fas fa-user"></span>|g' index.html
 
 echo 'correct language table'

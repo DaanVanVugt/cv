@@ -62,6 +62,8 @@ Jan 12 - Dec 16
     where world’s most advanced nuclear fusion research reactor is
     being built.
 
+------------------------------------------------------------------------
+
 
 Education
 
@@ -123,6 +125,8 @@ May 14
 
     workload: 100 hours
 
+------------------------------------------------------------------------
+
 
 Skills
 
@@ -167,6 +171,8 @@ Other
     -   FUSION DC 2016 Program Representative
     -   TGD SOLUTIONS board member
 
+------------------------------------------------------------------------
+
 
 Research
 
@@ -198,6 +204,8 @@ Jan 13 - now
 
     source: github
 
+------------------------------------------------------------------------
+
 
 Awards
 
@@ -214,6 +222,8 @@ Awards
     with their PhD study in the broad field of plasma physics.
 
     website: EPS
+
+------------------------------------------------------------------------
 
 
 References

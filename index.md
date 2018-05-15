@@ -41,6 +41,8 @@ Jan 12 - Dec 16
     A dedicated mathematical theory was developed [[Weyens et al, 2014, P.o.P, 21, 4]](https://www.researchgate.net/publication/263054885_Three-dimensional_linear_peeling-ballooning_theory_in_magnetic_fusion_devices) and a high-performance numerical code designed, PB3D [[Weyens et al, 2017, J.c.P, 330]](https://www.researchgate.net/publication/309620864_PB3D_A_new_code_for_edge_3-D_ideal_linear_peeling-ballooning_stability), in modern Fortran, making use of the MPI protocol for parallelization. 
     Part of the work was done at the [ITER Organization](http://iter.org/), a multi-billion dolar project where world's most advanced nuclear fusion research reactor is being built.
 
+----
+
 Education
 ---------
 
@@ -86,6 +88,8 @@ May 14
     
     workload: 100 hours
 
+----
+
 Skills
 -----
 Languages
@@ -119,6 +123,7 @@ Other
 :   * **[Fusion DC](http://www.em-fusion-dc.org/)** 2016 Program Representative
     * **[TGD Solutions](http://tgdsolutions.net/)** board member
 
+----
 
 Research
 --------
@@ -140,6 +145,7 @@ Jan 13 - now
     
     source: [github](https://github.com/ToonWeyens/PB3D)
 
+----
 
 Awards
 ------
@@ -152,6 +158,8 @@ Awards
     
     website: [EPS](http://plasma.ciemat.es/eps/awards/phd-research-award/)
 
+
+----
 
 References
 ----------
