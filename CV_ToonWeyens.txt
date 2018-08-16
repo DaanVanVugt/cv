@@ -11,21 +11,24 @@ TOON WEYENS
 
 ------------------------------------------------------------------------
 
-  Through my background in general energy engineering, as well as my
-  Ph.D. specialized in nuclear fusion science, I am well suited to
-  tackle any problem where analytical insight and higher mathematics is
-  necessary, without losing sight of the big picture. This is backed up
-  by extensive computational physics knowledge. As working in a dynamic
-  multicultural and multilingual environment challenges and motivates
-  me, I am always looking for new opportunities to learn. Furthermore, I
-  enjoy sports, music, traveling, mathematics and reading.
+  Passionate about mathematics, science, technology and shaping the
+  future. Trained as a Ph.D. in applied physics, followed by two years
+  of research in nuclear fusion as the energy source of the future at
+  the ITER Organization through the Monaco postdoctoral fellowship.
+  Well-versed in computer science with extensive experience in Fortran,
+  python, HPC parallel computing, git, vim, scientific visualization,
+  among others. Enjoing mathematical excursions in domains such as
+  partial differential equations, linear algebra, graph theory, neural
+  networks. Inquisitive and analytical. Currently looking for exciting
+  new challenges in the fields of data science and artificial
+  intelligence.
 
 ------------------------------------------------------------------------
 
-nationality:
+Nationality:
     Belgian
 
-date of birth:
+Date of birth:
     30/12/1987
 
 ------------------------------------------------------------------------
@@ -33,41 +36,41 @@ date of birth:
 
 Experience
 
-Jan 13 - Now
+Jan ’17 - Current
 
     POSTDOCTORAL MONACO FELLOW
 
     _ITER Organization_
 
-    The numerical code PB3D, developed as part of my Ph.D. project is
-    put to use at the ITER project to support the development of
-    next-generation toroidal magnetic fusion devices. Have a look at the
-    PB3D project below.
+    Responsible for the investigation of 3-D effects on Edge-Localized
+    Modes (ELM) stability at the ITER Organization, a multi-billion
+    dolar project where the world’s most advanced nuclear fusion
+    research reactor is being built. Using the numerical code PB3D,
+    developed as part of my Ph.D. project. Have a look at the PB3D
+    project below.
 
-Jan 12 - Dec 16
+Jan ’12 - Dec ’16
 
     DOCTORAL RESEARCHER
 
     _Universidad Carlos III de Madrid · Eindhoven University of
     Technology · ITER Organization_
 
-    My Ph.D. research project involved furthering the understanding of
-    an important class of instabilities that occur in toroidal magnetic
-    confinement devices for nuclear fusion, called _high-n_
-    instabilities. A dedicated mathematical theory was developed [Weyens
-    et al, 2014, P.o.P, 21, 4] and a high-performance numerical code
-    designed, PB3D [Weyens et al, 2017, J.c.P, 330], in modern Fortran,
-    making use of the MPI protocol for parallelization. Part of the work
-    was done at the ITER Organization, a multi-billion dolar project
-    where world’s most advanced nuclear fusion research reactor is
-    being built.
+    Designed a research project dedicated to furthering the
+    understanding of an important class of instabilities that occur in
+    toroidal magnetic confinement devices for nuclear fusion, called
+    _high-n_ instabilities. A dedicated mathematical theory was
+    developed [Weyens et al, 2014, P.o.P, 21, 4] and an optimized
+    numerical code designed, PB3D [Weyens et al, 2017, J.c.P, 330], in
+    Fortran, making use of modern High-Performance parallel
+    computing (HPC) techniques.
 
 ------------------------------------------------------------------------
 
 
 Education
 
-Sep 10 - Aug 12
+Sep ’10 - Aug ’12
 
     MASTER OF SCIENCE - NUCLEAR FUSION SCIENCE & TECHNOLOGY
 
@@ -78,7 +81,7 @@ Sep 10 - Aug 12
 
     Graduated top 5%.
 
-Sep 08 - Aug 10
+Sep ’08 - Aug ’10
 
     MASTER OF SCIENCE - ENERGY ENGINEERING
 
@@ -89,11 +92,31 @@ Sep 08 - Aug 10
 
     Graduated top 15%.
 
-May 18
+July ’18
+
+    ONLINE COURSE - INTRODUCTION TO DEEP LEARNING (part of Advanced
+    Machine Learning)
+
+    _Coursera advanced, by Higher School of Economics Moscow_
+
+    Basic understanding of modern neural networks and their applications
+    in computer vision and natural language understanding. Recap of
+    linear models and discussion of stochastic optimization methods that
+    are crucial for training deep neural networks. Treats all popular
+    building blocks of neural networks including fully connected layers,
+    convolutional and recurrent layers. Application of these building
+    blocks to define complex modern architectures in TensorFlow and
+    Keras frameworks.
+
+    Workload: 60 hours
+
+    certificate: link
+
+May ’18
 
     ONLINE SPECIALIZATION - DEEP LEARNING
 
-    _Coursera_
+    _Coursera intermediate, by Andrew Ng_
 
     The topics include the foundations of Deep Learning, understand how
     to build neural networks, and learn how to lead successful machine
@@ -105,11 +128,11 @@ May 18
     practiced in Python, and use is made of software packages TensorFlow
     as well as Keras.
 
-    workload: 60-100 hours
+    workload: 80-120 hours
 
     certificate: link
 
-May 14
+May ’14
 
     SUMMER SCHOOL - 23RD SUMMER SCHOOL ON PARALLEL COMPUTING
 
@@ -124,6 +147,71 @@ May 14
     and debuggers.
 
     workload: 100 hours
+
+------------------------------------------------------------------------
+
+
+Projects
+
+Jan ’13 - Current
+
+    PB3D
+
+    _Peeling-Ballooning in 3-D_
+
+    PB3D (Peeling-Ballooning in 3-D} is a numerical code developed
+    during as part of my doctoral research project. It is capable of
+    analyzing in an efficient manner the peeling-ballooning stability of
+    toroidal magnetic confinement devices for nuclear fusion. These
+    so-called high-n instabilities are of importance in thee next
+    generation of devices as they are easily excited and have the
+    potential to couple plasma from the hot interior to the cold reactor
+    walls. PB3D is unique in that it is geared towards these high-n
+    instabilities, in general 3-D configurations, while allowing for the
+    plasma edge to be perturbed [Weyens et al, 2017, J.c.P, 330].
+
+    For my postdoctoral research I currently emply PB3D to investigate
+    certain 3-D effects, such as the usage of resonant magnetic
+    perturbations for ELM control–an important class of periodic
+    instabilities that degradate confinement, with applications to ITER.
+
+    The PB3D code is freely available and well-documented.
+
+    website: PB3D.github.io
+
+    source: github
+
+Feb ’18 - Current
+
+    PYLGRIM
+
+    _Elementary Shortest Path Problem with or without Resource
+    Constraint_
+
+    Python implementation of some promising algorithms for the
+    elementary shortest path problem from recent publications. Currently
+    these include [Di Puglia Pugliese et all, 2016, Comput Optim Appl,
+    63] and [Boland et all, 2006, Oper Res Lett].
+
+    The ESPPRC problem is NP-hard, so the solution of it in an efficient
+    manner is a interesting mathematical and computational problem.
+    Though a high-performance implementation would certainly benefit
+    from being implemented in a language such as C or C++, this python
+    package was created to have easy access to some of the most modern
+    algorithms and to benchmark and learn from them.
+
+    website: github
+
+Jan ’18 - Current
+
+    KRAEMER
+
+    _High-frequency crypto automated arbitrage trader_
+
+    Co-creator. Challenging collaborative project drawing from a variety
+    of expertises, combining computational sciences with mathematicical
+    and physical knowledge. Supported by both state of the art
+    cryptocurrency financial modelling and deep learning strategies.
 
 ------------------------------------------------------------------------
 
@@ -158,51 +246,19 @@ Computer
 
 Programming
 
-    -   PYTHON · preferred for most applications
-    -   FORTRAN · used for hpc application such as PB3D, lots of
-        experience
-    -   MPI, OPENMP · parallelization for HPC, most experience with MPI
-    -   BASH, MAKE, … · used daily for scripting and development
-    -   LATEX, LUATEX · preferred for large documents, such as my Ph.D.
-        dissertation, lots of experience
+    -   PYTHON · numpy, scipy, pandas, cython, aioprocessing, …
+    -   FORTRAN · HPC application such as PB3D
+    -   TENSORFLOW, KERAS · Deep Learning quick modelling
+    -   MPI, OPENMP · parallelization for HPC
+    -   JUPYTER NOTEBOOKS · exploratory programming
+    -   BASH, MAKE, … · daily scripting and development
+    -   MYSQL · simple database
+    -   LATEX, LUATEX · large documents, such as Ph.D. dissertation
 
 Other
 
     -   FUSION DC 2016 Program Representative
     -   TGD SOLUTIONS board member
-
-------------------------------------------------------------------------
-
-
-Research
-
-Jan 13 - now
-
-    PB3D
-
-    _Peeling-Ballooning in 3-D_
-
-    PB3D (Peeling-Ballooning in 3-D} is a numerical code developed
-    during as part of my doctoral research project. It is capable of
-    analyzing in an efficient manner the peeling-ballooning stability of
-    toroidal magnetic confinement devices for nuclear fusion. These
-    so-called high-n instabilities are of importance in thee next
-    generation of devices as they are easily excited and have the
-    potential to couple plasma from the hot interior to the cold reactor
-    walls. PB3D is unique in that it is geared towards these high-n
-    instabilities, in general 3-D configurations, while allowing for the
-    plasma edge to be perturbed [Weyens et al, 2017, J.c.P, 330].
-
-    For my postdoctoral research I currently emply PB3D to investigate
-    certain 3-D effects, such as the usage of resonant magnetic
-    perturbations for ELM control–an important class of periodic
-    instabilities that degradate confinement, with applications to ITER.
-
-    The PB3D code is freely available and well-documented.
-
-    website: PB3D.github.io
-
-    source: github
 
 ------------------------------------------------------------------------
 
