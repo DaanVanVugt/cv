@@ -117,8 +117,8 @@ Jan '13 - Current
     *Peeling-Ballooning in 3-D*
     
     PB3D (**P**eeling-**B**allooning in **3**-**D**} is a numerical code developed during as part of my doctoral research project.
-    It is capable of analyzing in an efficient manner the peeling-ballooning stability of toroidal magnetic confinement devices for nuclear fusion.
-    These so-called high-n instabilities are of importance in thee next generation of devices as they are easily excited and have the potential to couple plasma from the hot interior to the cold reactor walls.
+    It is capable of analyzing in an efficient manner the peeling-ballooning stability of toroidal magnetic confinement devices for nuclear fusion through the mathematical mimization of a functional that leads to a generalized eigenvalue equation.
+    These so-called high-n instabilities are of importance in the next generation of devices as they are easily excited and have the potential to couple plasma from the hot interior to the cold reactor walls.
     PB3D is unique in that it is geared towards these high-n instabilities, in general 3-D configurations, while allowing for the plasma edge to be perturbed [[Weyens et al, 2017, J.c.P, 330]](https://www.researchgate.net/publication/309620864_PB3D_A_new_code_for_edge_3-D_ideal_linear_peeling-ballooning_stability).
     
     For my postdoctoral research I currently emply PB3D to investigate certain 3-D effects, such as the usage of resonant magnetic perturbations for ELM control--an important class of periodic instabilities that degradate confinement, with applications to ITER.
@@ -138,7 +138,7 @@ Feb '18 - Current
     Currently these include [[Di Puglia Pugliese et all, 2016, Comput Optim Appl, 63]](https://www.researchgate.net/publication/279953870_On_the_shortest_path_problem_with_negative_cost_cycles) and [[Boland et all, 2006, Oper Res Lett]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjiroPsyvHcAhVNiRoKHXVFDz4QFjABegQICRAB&url=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F222559312_Accelerated_label_setting_algorithms_for_the_elementary_resource_constrained_shortest_path_problem&usg=AOvVaw1kvbRCLlNamfAYo8r2AiRe).
 
     The ESPPRC problem is NP-hard, so the solution of it in an efficient manner is a interesting mathematical and computational problem.
-    Though a high-performance implementation would certainly benefit from being implemented in a language such as C or C++, this python package was created to have easy access to some of the most modern algorithms and to benchmark and learn from them.
+    Though a high-performance implementation in C++ is currently on its way, this python package was created to have easy access to some of the most modern algorithms and to benchmark and learn from them.
 
     website: [github](https://github.com/ToonWeyens/pylgrim)
 
@@ -176,8 +176,9 @@ Computer
     * **[HDF5](https://www.hdfgroup.org/HDF5/) with [XDMF](https://xmswiki.com/wiki/XMDF)** · best data model, both for storage and for visualization
 
 Programming
-:   * **Python** · numpy, scipy, pandas, cython, aioprocessing, ...
-    * **Fortran** · HPC application such as [PB3D](https://PB3D.github.io/)
+:   * **Fortran** · HPC application such as [PB3D](https://PB3D.github.io/)
+    * **Python** · numpy, scipy, pandas, cython, aioprocessing, ...
+    * **C++** · especially useful paired with the [BOOST](http://boost.org/) library
     * **TensorFlow, Keras** · Deep Learning quick modelling
     * **MPI, OpenMP** · parallelization for HPC
     * **jupyter notebooks** · exploratory programming

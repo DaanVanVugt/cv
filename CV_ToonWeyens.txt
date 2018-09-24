@@ -162,13 +162,15 @@ Jan ’13 - Current
     PB3D (Peeling-Ballooning in 3-D} is a numerical code developed
     during as part of my doctoral research project. It is capable of
     analyzing in an efficient manner the peeling-ballooning stability of
-    toroidal magnetic confinement devices for nuclear fusion. These
-    so-called high-n instabilities are of importance in thee next
-    generation of devices as they are easily excited and have the
-    potential to couple plasma from the hot interior to the cold reactor
-    walls. PB3D is unique in that it is geared towards these high-n
-    instabilities, in general 3-D configurations, while allowing for the
-    plasma edge to be perturbed [Weyens et al, 2017, J.c.P, 330].
+    toroidal magnetic confinement devices for nuclear fusion through the
+    mathematical mimization of a functional that leads to a generalized
+    eigenvalue equation. These so-called high-n instabilities are of
+    importance in the next generation of devices as they are easily
+    excited and have the potential to couple plasma from the hot
+    interior to the cold reactor walls. PB3D is unique in that it is
+    geared towards these high-n instabilities, in general 3-D
+    configurations, while allowing for the plasma edge to be perturbed
+    [Weyens et al, 2017, J.c.P, 330].
 
     For my postdoctoral research I currently emply PB3D to investigate
     certain 3-D effects, such as the usage of resonant magnetic
@@ -195,10 +197,9 @@ Feb ’18 - Current
 
     The ESPPRC problem is NP-hard, so the solution of it in an efficient
     manner is a interesting mathematical and computational problem.
-    Though a high-performance implementation would certainly benefit
-    from being implemented in a language such as C or C++, this python
-    package was created to have easy access to some of the most modern
-    algorithms and to benchmark and learn from them.
+    Though a high-performance implementation in C++ is currently on its
+    way, this python package was created to have easy access to some of
+    the most modern algorithms and to benchmark and learn from them.
 
     website: github
 
@@ -246,8 +247,9 @@ Computer
 
 Programming
 
-    -   PYTHON · numpy, scipy, pandas, cython, aioprocessing, …
     -   FORTRAN · HPC application such as PB3D
+    -   PYTHON · numpy, scipy, pandas, cython, aioprocessing, …
+    -   C++ · especially useful paired with the BOOST library
     -   TENSORFLOW, KERAS · Deep Learning quick modelling
     -   MPI, OPENMP · parallelization for HPC
     -   JUPYTER NOTEBOOKS · exploratory programming
