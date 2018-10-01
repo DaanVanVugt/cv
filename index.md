@@ -1,7 +1,7 @@
 Toon Weyens
 ===========
 
-➤ Aix-en-Provence, France · ✆ +32 494 39 92 19 · ✉  <weyenst@gmail.com>
+➤ EU · ✆ +32 494 39 92 19 · ✉  <weyenst@gmail.com>
 -----------------------------------------------------------------------
 > [LinkedIn](https://www.linkedin.com/in/toonweyens/)  
 > [GitHub](http://github.com/toonweyens)  
