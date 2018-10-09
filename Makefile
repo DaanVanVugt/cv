@@ -1,3 +1,5 @@
+NODE_EXISTS=$(shell [ -d puppeteer/node_modules ] && echo 1 || echo 0 )
+
 all: html pdf txt
 
 html: index.md style.css
@@ -5,7 +7,13 @@ html: index.md style.css
 	@./scripts/modify_html.sh
 
 pdf: index.html
-	wkhtmltopdf -T 20 -B 20 index.html CV_ToonWeyens.pdf
+ifeq ($(NODE_EXISTS), 1)
+	@node puppeteer/print.js
+	@echo "created pdf file"
+else
+	@echo "ERROR: no puppeteer installation found in subfolder - see README"
+endif
+
 
 txt: index.md
 	pandoc --standalone --smart --from markdown --to plain -o CV_ToonWeyens.txt index.md

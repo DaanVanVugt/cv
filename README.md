@@ -8,6 +8,11 @@
 * Upate `metadata.yaml`.
 * Run `make all`.
 * It is possible that some of the html beautifying tricks found in `scripts/modify_html.sh` have to be partly rewritten.
+* For pdf generation:
+    - install puppeteer with `nvm`:
+        - `cd puppeteer`
+        - `npm i puppeteer`
+        - `cd ../`
 * Only tested on Linux.
 
 ## List of changes:
