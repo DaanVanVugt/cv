@@ -178,6 +178,7 @@ Computer
 Programming
 :   * **Fortran** · HPC application such as [PB3D](https://PB3D.github.io/)
     * **Python** · numpy, scipy, pandas, cython, aioprocessing, ...
+    * **Matlab** · Daily scripting but also larger applications
     * **C++** · especially useful paired with the [BOOST](http://boost.org/) library
     * **TensorFlow, Keras** · Deep Learning quick modelling
     * **MPI, OpenMP** · parallelization for HPC

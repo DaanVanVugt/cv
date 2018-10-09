@@ -3,7 +3,7 @@
 TOON WEYENS
 
 
-➤ Eligible to work in EU · ✆ +32 494 39 92 19 · ✉ weyenst@gmail.com
+➤ EU · ✆ +32 494 39 92 19 · ✉ weyenst@gmail.com
 
   LinkedIn
   GitHub
@@ -249,6 +249,7 @@ Programming
 
     -   FORTRAN · HPC application such as PB3D
     -   PYTHON · numpy, scipy, pandas, cython, aioprocessing, …
+    -   MATLAB · Daily scripting but also larger applications
     -   C++ · especially useful paired with the BOOST library
     -   TENSORFLOW, KERAS · Deep Learning quick modelling
     -   MPI, OPENMP · parallelization for HPC
