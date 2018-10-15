@@ -34,17 +34,21 @@ Jan '17 - Current
     
     *[ITER Organization](http://iter.org/)*
 
-    Responsible for the investigation of 3-D effects on Edge-Localized Modes (ELM) stability at the [ITER Organization](http://iter.org/), a multi-billion dolar project where the world's most advanced nuclear fusion research reactor is being built.
-    Using the numerical code PB3D, developed as part of my Ph.D. project.
-    Have a look at the PB3D project [below](#PB3D_project).
+    - Responsible for investigation of 3-D effects on Edge-Localized Modes (ELM) stability
+    - At multi-billion dollar [ITER](http://iter.org/) project
+    - World's most advanced nuclear fusion research reactor
+    - Using numerical code PB3D, developed as part of my Ph.D. project (see [below](#PB3D_project))
 
 Jan '12 - Dec '16
 :   **Doctoral Researcher**
     
     *[Universidad Carlos III de Madrid](https://www.uc3m.es/) · [Eindhoven University of Technology](https://www.tue.nl/) · [ITER Organization](http://iter.org/)*
 
-    Designed a research project dedicated to furthering the understanding of an important class of instabilities that occur in toroidal magnetic confinement devices for nuclear fusion, called *high-n* instabilities. 
-    A dedicated mathematical theory was developed [[Weyens et al, 2014, P.o.P, 21, 4]](https://www.researchgate.net/publication/263054885_Three-dimensional_linear_peeling-ballooning_theory_in_magnetic_fusion_devices) and an optimized numerical code designed, PB3D [[Weyens et al, 2017, J.c.P, 330]](https://www.researchgate.net/publication/309620864_PB3D_A_new_code_for_edge_3-D_ideal_linear_peeling-ballooning_stability), in Fortran, making use of modern High-Performance parallel computing (HPC) techniques.
+    - Designed research project to improve understanding of *high-n* instabilities
+    - Important class of instabilities in toroidal magnetic confinement devices for nuclear fusion
+    - Dedicated mathematical theory was developed [[Weyens et al, 2014, P.o.P, 21, 4]](https://www.researchgate.net/publication/263054885_Three-dimensional_linear_peeling-ballooning_theory_in_magnetic_fusion_devices)
+    - Optimized numerical code designed, PB3D [[Weyens et al, 2017, J.c.P, 330]](https://www.researchgate.net/publication/309620864_PB3D_A_new_code_for_edge_3-D_ideal_linear_peeling-ballooning_stability)
+    - Modern Fortran, High-Performance Parallel Computing (HPC) techniques
 
 ----
 
@@ -56,7 +60,9 @@ Sep '10 - Aug '12
     
     *[Ghent University](https://www.ugent.be/en) · [Universidad Carlos III de Madrid](https://www.uc3m.es/) · [Université de Lorraine](www.univ-lorraine.fr/)*
     
-    European program in the [Erasmus Mundus](https://ec.europa.eu/programmes/erasmus-plus/opportunities/individuals/students/erasmus-mundus-joint-master-degrees_en) framework. 
+    - European program in the [Erasmus Mundus](https://ec.europa.eu/programmes/erasmus-plus/opportunities/individuals/students/erasmus-mundus-joint-master-degrees_en) framework. 
+    - Fusion Engineering & Fusion Science
+    - Focus on (European) culture and language
     
     Graduated top 5%.
 
@@ -65,7 +71,11 @@ Sep '08 - Aug '10
     
     *[University of Leuven](https://www.kuleuven.be/english/) · [Technische Universität Berlin](www.tu-berlin.de/) (exchange)*
 
-    Curriculum included mostly scientific but also economic and managerial aspects of energy. 
+    - Multidisciplinary curriculum
+    - Strong ties to industry
+    - (Thermo-)Mechanical & Electrical engineering
+    - Focus on economical aspects of energy
+    - Personal experience: exchange in TU Berlin for first half curriculum
     
     Graduated top 15%.
 
@@ -89,12 +99,12 @@ May '18
     
     *[Coursera](https://www.coursera.org/) intermediate, by Andrew Ng*
     
-    The topics include the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects.
-    Neural network techniques such as convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more are treated.
-    There is a focus on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing.
-    These ideas are practiced in Python, and use is made of software packages [TensorFlow](https://www.tensorflow.org) as well as [Keras](https://keras.io/).
-    
-    workload: 80-120 hours
+    - Deep learning foundations by master educator Andrew Ng
+    - Convolutional neural networks
+    - Sequence models: RNN, (Bi)LSTM, GRU
+    - Optimizers: Stochastic, Adam, AdaMax
+    - Overfitting:  dropout, BatchNorm
+    - [TensorFlow](https://www.tensorflow.org) & [Keras](https://keras.io/)
     
     certificate: [link](https://www.coursera.org/account/accomplishments/specialization/LGBBTZSV3E3S)
 
@@ -103,10 +113,10 @@ May '14
     
     *[CINECA](https://www.cineca.it/en), Casalecchio Di Reno*
     
-    The Summer School on Parallel Computing is an intense, 10 day, graduate level course in HPC, with the objective of providing the participants with the skills to program and exploit modern parallel computing systems to solve computational problems.
-    The school covers key topics focusing on HPC lexicon, parallel architectures, parallel programming models and methods, software engineering, profilers and debuggers.
-    
-    workload: 100 hours
+    - 10 day intense graduate HPC course
+    - Modern parallel computing systems for computation
+    - HPC introduction, parallel architectures, MPI & OpenMP
+    - Profilers & debuggers
 
 ----
 
@@ -115,16 +125,22 @@ Projects
 Jan '13 - Current
 :   <a name="PB3D_project"></a>**PB3D**
     
-    *Peeling-Ballooning in 3-D*
+    **P**eeling-**B**allooning in **3**-**D**
     
-    PB3D (**P**eeling-**B**allooning in **3**-**D**} is a numerical code developed during as part of my doctoral research project.
-    It is capable of analyzing in an efficient manner the peeling-ballooning stability of toroidal magnetic confinement devices for nuclear fusion through the mathematical mimization of a functional that leads to a generalized eigenvalue equation.
-    These so-called high-n instabilities are of importance in the next generation of devices as they are easily excited and have the potential to couple plasma from the hot interior to the cold reactor walls.
-    PB3D is unique in that it is geared towards these high-n instabilities, in general 3-D configurations, while allowing for the plasma edge to be perturbed [[Weyens et al, 2017, J.c.P, 330]](https://www.researchgate.net/publication/309620864_PB3D_A_new_code_for_edge_3-D_ideal_linear_peeling-ballooning_stability).
+    - Part of my doctoral research project.
+    - Capable of efficiently analyzing peeling-ballooning stability of toroidal magnetic confinement devices
+    - Crucial for nuclear fusion
+    - Freely available and well-documented
     
-    For my postdoctoral research I currently emply PB3D to investigate certain 3-D effects, such as the usage of resonant magnetic perturbations for ELM control--an important class of periodic instabilities that degradate confinement, with applications to ITER.
+    *for experts:*
+
+    - Mathematical mimization of functional, leading to generalized eigenvalue equation
+    - *high-n* instabilities easily excited, couple plasma (150 million °C) to the cold reactor walls (−260.8 °C)
+    - General 3-D configurations, perturbed plasma edge [[Weyens et al, 2017, J.c.P, 330]](https://www.researchgate.net/publication/309620864_PB3D_A_new_code_for_edge_3-D_ideal_linear_peeling-ballooning_stability)
+    - Postdoctoral research: investigate 3-D effects
+        - resonant magnetic perturbations for ELM control (RMP)
+        - toroidal field coil (TF) ripple
     
-    The PB3D code is freely available and well-documented.
     
     website: [PB3D.github.io](https://PB3D.github.io/)
     
@@ -135,11 +151,11 @@ Feb '18 - Current
     
     *Elementary Shortest Path Problem with or without Resource Constraint*
     
-    Python implementation of some promising algorithms for the elementary shortest path problem from recent publications.
-    Currently these include [[Di Puglia Pugliese et all, 2016, Comput Optim Appl, 63]](https://www.researchgate.net/publication/279953870_On_the_shortest_path_problem_with_negative_cost_cycles) and [[Boland et all, 2006, Oper Res Lett]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjiroPsyvHcAhVNiRoKHXVFDz4QFjABegQICRAB&url=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F222559312_Accelerated_label_setting_algorithms_for_the_elementary_resource_constrained_shortest_path_problem&usg=AOvVaw1kvbRCLlNamfAYo8r2AiRe).
-
-    The ESPPRC problem is NP-hard, so the solution of it in an efficient manner is a interesting mathematical and computational problem.
-    Though a high-performance implementation in C++ is currently on its way, this python package was created to have easy access to some of the most modern algorithms and to benchmark and learn from them.
+    - Python implementation of promising algorithms for Elementary Shortest Path Problem (ESPP)
+    - From recent publications, to benchmark and learn:
+        - [[Di Puglia Pugliese et all, 2016, Comput Optim Appl, 63]](https://www.researchgate.net/publication/279953870_On_the_shortest_path_problem_with_negative_cost_cycles)
+        - [[Boland et all, 2006, Oper Res Lett]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjiroPsyvHcAhVNiRoKHXVFDz4QFjABegQICRAB&url=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F222559312_Accelerated_label_setting_algorithms_for_the_elementary_resource_constrained_shortest_path_problem&usg=AOvVaw1kvbRCLlNamfAYo8r2AiRe).
+    - problem is NP-hard, so efficient solution is interesting mathematical and computational problem
 
     website: [github](https://github.com/ToonWeyens/pylgrim)
 
@@ -148,9 +164,10 @@ Jan '18 - Current
     
     *High-frequency crypto automated arbitrage trader*
 
-    Co-creator.
-    Challenging collaborative project drawing from a variety of expertises, combining computational sciences with mathematicical and physical knowledge.
-    Supported by both state of the art cryptocurrency financial modelling and deep learning strategies.
+    - Co-creator.
+    - Collaborative project drawing from variety of expertises
+    - Based on computational sciences & mathematicical and physical knowledge
+    - Supported by state of the art cryptocurrency financial modelling & deep learning strategies
 
 ----
 
