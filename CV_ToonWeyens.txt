@@ -44,8 +44,8 @@ Jan ’17 - Current
 
     -   Responsible for investigation of 3-D effects on Edge-Localized
         Modes (ELM) stability
-    -   At multi-billion dollar ITER project
-    -   World’s most advanced nuclear fusion research reactor
+    -   Located at multi-billion dollar ITER project, world’s most
+        advanced nuclear fusion research reactor
     -   Using numerical code PB3D, developed as part of my Ph.D. project
         (see below)
 
@@ -60,11 +60,11 @@ Jan ’12 - Dec ’16
         instabilities
     -   Important class of instabilities in toroidal magnetic
         confinement devices for nuclear fusion
-    -   Dedicated mathematical theory was developed [Weyens et al, 2014,
+    -   Developed dedicated mathematical theory [Weyens et al, 2014,
         P.o.P, 21, 4]
-    -   Optimized numerical code designed, PB3D [Weyens et al, 2017,
+    -   Designed optimized numerical code, PB3D [Weyens et al, 2017,
         J.c.P, 330]
-    -   Modern Fortran, High-Performance Parallel Computing (HPC)
+    -   Used modern Fortran, High-Performance Parallel Computing (HPC)
         techniques
 
 ------------------------------------------------------------------------
@@ -112,6 +112,7 @@ October ’18
     -   Markov chain Monte Carlo
     -   Variational Autoencoder
     -   Gaussian processes & Bayesian optimization
+    -   PyMC3, GPy, GPyOpt
 
     Graduated with honors.
 
@@ -185,7 +186,7 @@ Feb ’18 - Current
 
     -   Python implementation of promising algorithms for Elementary
         Shortest Path Problem (ESPP)
-    -   From recent publications, to benchmark and learn:
+    -   From recent publications, to benchmark and learn - currently:
         -   [Di Puglia Pugliese et all, 2016, Comput Optim Appl, 63]
         -   [Boland et all, 2006, Oper Res Lett].
     -   problem is NP-hard, so efficient solution is interesting

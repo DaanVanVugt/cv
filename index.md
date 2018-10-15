@@ -35,8 +35,7 @@ Jan '17 - Current
     *[ITER Organization](http://iter.org/)*
 
     - Responsible for investigation of 3-D effects on Edge-Localized Modes (ELM) stability
-    - At multi-billion dollar [ITER](http://iter.org/) project
-    - World's most advanced nuclear fusion research reactor
+    - Located at multi-billion dollar [ITER](http://iter.org/) project, world's most advanced nuclear fusion research reactor
     - Using numerical code PB3D, developed as part of my Ph.D. project (see [below](#PB3D_project))
 
 Jan '12 - Dec '16
@@ -46,9 +45,9 @@ Jan '12 - Dec '16
 
     - Designed research project to improve understanding of *high-n* instabilities
     - Important class of instabilities in toroidal magnetic confinement devices for nuclear fusion
-    - Dedicated mathematical theory was developed [[Weyens et al, 2014, P.o.P, 21, 4]](https://www.researchgate.net/publication/263054885_Three-dimensional_linear_peeling-ballooning_theory_in_magnetic_fusion_devices)
-    - Optimized numerical code designed, PB3D [[Weyens et al, 2017, J.c.P, 330]](https://www.researchgate.net/publication/309620864_PB3D_A_new_code_for_edge_3-D_ideal_linear_peeling-ballooning_stability)
-    - Modern Fortran, High-Performance Parallel Computing (HPC) techniques
+    - Developed dedicated mathematical theory [[Weyens et al, 2014, P.o.P, 21, 4]](https://www.researchgate.net/publication/263054885_Three-dimensional_linear_peeling-ballooning_theory_in_magnetic_fusion_devices)
+    - Designed optimized numerical code, PB3D [[Weyens et al, 2017, J.c.P, 330]](https://www.researchgate.net/publication/309620864_PB3D_A_new_code_for_edge_3-D_ideal_linear_peeling-ballooning_stability)
+    - Used modern Fortran, High-Performance Parallel Computing (HPC) techniques
 
 ----
 
@@ -89,6 +88,7 @@ October '18
     - Markov chain Monte Carlo
     - Variational Autoencoder
     - Gaussian processes & Bayesian optimization
+    - [PyMC3](https://docs.pymc.io/), [GPy](https://sheffieldml.github.io/GPy/), [GPyOpt](https://sheffieldml.github.io/GPyOpt/)
 
     Graduated with honors.
     
@@ -152,7 +152,7 @@ Feb '18 - Current
     *Elementary Shortest Path Problem with or without Resource Constraint*
     
     - Python implementation of promising algorithms for Elementary Shortest Path Problem (ESPP)
-    - From recent publications, to benchmark and learn:
+    - From recent publications, to benchmark and learn - currently:
         - [[Di Puglia Pugliese et all, 2016, Comput Optim Appl, 63]](https://www.researchgate.net/publication/279953870_On_the_shortest_path_problem_with_negative_cost_cycles)
         - [[Boland et all, 2006, Oper Res Lett]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjiroPsyvHcAhVNiRoKHXVFDz4QFjABegQICRAB&url=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F222559312_Accelerated_label_setting_algorithms_for_the_elementary_resource_constrained_shortest_path_problem&usg=AOvVaw1kvbRCLlNamfAYo8r2AiRe).
     - problem is NP-hard, so efficient solution is interesting mathematical and computational problem
