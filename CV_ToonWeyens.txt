@@ -92,23 +92,20 @@ Sep ’08 - Aug ’10
 
     Graduated top 15%.
 
-July ’18
+October ’18
 
-    ONLINE COURSE - INTRODUCTION TO DEEP LEARNING (part of Advanced
-    Machine Learning)
+    ONLINE COURSE - BAYESIAN METHODS FOR MACHINE LEARNING (part of
+    Advanced Machine Learning)
 
     _Coursera advanced, by Higher School of Economics Moscow_
 
-    Basic understanding of modern neural networks and their applications
-    in computer vision and natural language understanding. Recap of
-    linear models and discussion of stochastic optimization methods that
-    are crucial for training deep neural networks. Treats all popular
-    building blocks of neural networks including fully connected layers,
-    convolutional and recurrent layers. Application of these building
-    blocks to define complex modern architectures in TensorFlow and
-    Keras frameworks.
+    -   Expectation-Maximization (EM) algorithm
+    -   Variational Inference & Latent Dirichlet Allocation
+    -   Markov chain Monte Carlo
+    -   Variational Autoencoder
+    -   Gaussian processes & Bayesian optimization
 
-    Workload: 60 hours
+    Graduated with honors.
 
     certificate: link
 

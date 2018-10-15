@@ -69,19 +69,20 @@ Sep '08 - Aug '10
     
     Graduated top 15%.
 
-July '18
-:   **Online Course - Introduction to Deep Learning** (part of [Advanced Machine Learning](https://www.coursera.org/specializations/aml))
+October '18
+:   **Online Course - Bayesian Methods for Machine Learning** (part of [Advanced Machine Learning](https://www.coursera.org/specializations/aml))
     
     *[Coursera](https://www.coursera.org/) advanced, by [Higher School of Economics](https://www.hse.ru/en/) Moscow*
 
-    Basic understanding of modern neural networks and their applications in computer vision and natural language understanding.
-    Recap of linear models and discussion of stochastic optimization methods that are crucial for training deep neural networks.
-    Treats all popular building blocks of neural networks including fully connected layers, convolutional and recurrent layers.
-    Application of these building blocks to define complex modern architectures in TensorFlow and Keras frameworks.
-    
-    Workload: 60 hours
+    - Expectation-Maximization (EM) algorithm
+    - Variational Inference & Latent Dirichlet Allocation
+    - Markov chain Monte Carlo
+    - Variational Autoencoder
+    - Gaussian processes & Bayesian optimization
 
-    certificate: [link](https://www.coursera.org/account/accomplishments/verify/EJ4M9PUVM9ST)
+    Graduated with honors.
+    
+    certificate: [link](https://www.coursera.org/account/accomplishments/verify/X8NMJJA5ZCAR)
 
 May '18
 :   **Online Specialization - [Deep Learning](https://www.coursera.org/specializations/deep-learning)**
