@@ -237,6 +237,7 @@ Awards
 
 ----
 
+<!---
 References
 ----------
 👤
@@ -270,6 +271,7 @@ References
     | ✆  | +34 91 6246001                               |
 
 ----
+-->
 
 > ➤ Aix-en-Provence, France · ✆ +32 494 39 92 19 · ✉  <weyenst@gmail.com>
 
