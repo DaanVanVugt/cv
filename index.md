@@ -15,6 +15,7 @@ Well-versed in computer science with extensive experience in Fortran, python, HP
 Enjoing mathematical excursions in domains such as partial differential equations, linear algebra, graph theory, neural networks.
 Inquisitive and analytical.
 Currently looking for exciting new challenges in the fields of data science and artificial intelligence.
+Especially interested in Bayesian Machine Learning, a thorougly enjoyable marriage of mathematical rigor and machine learning superpowers.
 
 ----
 

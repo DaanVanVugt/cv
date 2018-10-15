@@ -21,7 +21,9 @@ TOON WEYENS
   partial differential equations, linear algebra, graph theory, neural
   networks. Inquisitive and analytical. Currently looking for exciting
   new challenges in the fields of data science and artificial
-  intelligence.
+  intelligence. Especially interested in Bayesian Machine Learning, a
+  thorougly enjoyable marriage of mathematical rigor and machine
+  learning superpowers.
 
 ------------------------------------------------------------------------
 
