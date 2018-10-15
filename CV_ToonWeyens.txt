@@ -207,6 +207,19 @@ Jan ’18 - Current
     -   Supported by state of the art cryptocurrency financial modelling
         & deep learning strategies
 
+Oct ’18
+
+    FACIAL COMPOSITS: FINDING THE SUSPECT
+
+    _Capstone project for Bayesian Methods for Machine Learning_
+
+    -   Helps you with getting face of suspect in crime
+    -   Employed variational autoencoder in Keras and Tensorflow to
+        generate face images
+    -   Combined with Gaussian Process Optimization through GpyOpt
+    -   Interacts with you through simple binary _yes_/_no_ questions
+    -   Optimized program to require minimal amount of interaction
+
 ------------------------------------------------------------------------
 
 
@@ -245,6 +258,7 @@ Programming
     -   MATLAB · Daily scripting but also larger applications
     -   C++ · especially useful paired with the BOOST library
     -   TENSORFLOW, KERAS · Deep Learning quick modelling
+    -   PYMC3, GPY, GPYOPT · Bayesian Machine Learning
     -   MPI, OPENMP · parallelization for HPC
     -   JUPYTER NOTEBOOKS · exploratory programming
     -   BASH, MAKE, … · daily scripting and development

@@ -79,7 +79,7 @@ Sep '08 - Aug '10
     Graduated top 15%.
 
 October '18
-:   **Online Course - Bayesian Methods for Machine Learning** (part of [Advanced Machine Learning](https://www.coursera.org/specializations/aml))
+:   <a name="AML_course"></a>**Online Course - Bayesian Methods for Machine Learning** (part of [Advanced Machine Learning](https://www.coursera.org/specializations/aml))
     
     *[Coursera](https://www.coursera.org/) advanced, by [Higher School of Economics](https://www.hse.ru/en/) Moscow*
 
@@ -169,6 +169,17 @@ Jan '18 - Current
     - Based on computational sciences & mathematicical and physical knowledge
     - Supported by state of the art cryptocurrency financial modelling & deep learning strategies
 
+Oct '18
+:   **Facial Composits: Finding the Suspect**
+
+    *Capstone project for [Bayesian Methods for Machine Learning](#AML_course)*
+
+    - Helps you with getting face of suspect in crime
+    - Employed variational autoencoder in Keras and Tensorflow to generate face images
+    - Combined with Gaussian Process Optimization through GpyOpt
+    - Interacts with you through simple binary *yes*/*no* questions
+    - Optimized program to require minimal amount of interaction
+
 ----
 
 Skills
@@ -198,12 +209,13 @@ Programming
     * **Python** · numpy, scipy, pandas, cython, aioprocessing, ...
     * **Matlab** · Daily scripting but also larger applications
     * **C++** · especially useful paired with the [BOOST](http://boost.org/) library
-    * **TensorFlow, Keras** · Deep Learning quick modelling
-    * **MPI, OpenMP** · parallelization for HPC
+    * **TensorFlow**, **Keras** · Deep Learning quick modelling
+    * **PyMC3**, **GPy**, **GPyOpt** · Bayesian Machine Learning
+    * **MPI**, **OpenMP** · parallelization for HPC
     * **jupyter notebooks** · exploratory programming
-    * **Bash, Make, ...** · daily scripting and development
+    * **Bash**, **Make, ...** · daily scripting and development
     * **MySQL** · simple database
-    * **LaTeX, LuaTeX** · large documents, such as Ph.D. [dissertation](https://toonweyens.github.io/PB3D/dissertation_TOON_WEYENS.pdf)
+    * **LaTeX**, **LuaTeX** · large documents, such as Ph.D. [dissertation](https://toonweyens.github.io/PB3D/dissertation_TOON_WEYENS.pdf)
 
 Other
 :   * **[Fusion DC](http://www.em-fusion-dc.org/)** 2016 Program Representative
