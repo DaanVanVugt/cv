@@ -3,9 +3,9 @@ const puppeteer = require("puppeteer");
 (async () => {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  await page.goto("file:/home/toon/Documents/Professional/CV/toonweyens.github.io/index.html");
+  await page.goto("file://" + process.cwd() + "/" + "index.html");
   await page.pdf({
-    path: "/home/toon/Documents/Professional/CV/toonweyens.github.io/CV_ToonWeyens.pdf",
+    path: "CV_ToonWeyens.pdf",
     format: "A4",
     printBackground: true,
     displayHeaderFooter: false,
