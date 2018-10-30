@@ -11,6 +11,7 @@ const puppeteer = require("puppeteer");
     displayHeaderFooter: false,
     margin: { top: "1cm", bottom: "1cm", left: "1cm", right: "1cm" }
   });
+  await page.close();
 
   await browser.close();
 })();

@@ -291,6 +291,17 @@ Awards
 
     website: EPS
 
+2019
+
+    PYTORCH SCHOLARSHIP CHALLENGE
+
+    _Facebook_
+
+    10k recipients selected worldwide to start using PyTorch for
+    deep learning.
+
+    website: Udacity
+
 ------------------------------------------------------------------------
 
   ➤ Aix-en-Provence, France · ✆ +32 494 39 92 19 · ✉ weyenst@gmail.com
