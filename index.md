@@ -224,7 +224,7 @@ Other
 
 ----
 
-Awards
+Awards & Scholarships
 ------
 2017
 :   **Ph.D. Research Award**
