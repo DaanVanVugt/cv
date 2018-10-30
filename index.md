@@ -235,6 +235,14 @@ Awards
     
     website: [EPS](http://plasma.ciemat.es/eps/awards/phd-research-award/)
 
+2019
+:   **PyTorch Scholarship Challenge**
+    
+    *Facebook*
+    
+    10k recipients selected worldwide to start using PyTorch for deep learning.
+    
+    website: [Udacity](https://www.udacity.com/facebook-pytorch-scholarship)
 
 ----
 
