@@ -202,6 +202,7 @@ Computer
     * **[LaTeX](https://www.latex-project.org/)** · preferred tool for documents
     * **[html, CSS](https://www.w3.org/standards/webdesign/htmlcss)** · used for this curriculum vitae (with markdown → Pandoc)
     * **[git](https://git-scm.com/)** · for version control of virtually all my documents and projects
+    * **[jira](https://www.atlassian.com/software/jira)** · Agile by Atlassian
     * **[ParaView](https://www.paraview.org/), [VisIt](https://visit.llnl.gov/)** · favorite 3-D visualization tools, combined with HDF5 and XDMF
     * **[HDF5](https://www.hdfgroup.org/HDF5/) with [XDMF](https://xmswiki.com/wiki/XMDF)** · best data model, both for storage and for visualization
 
