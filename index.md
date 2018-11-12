@@ -12,7 +12,7 @@ Toon Weyens
 > Passionate about mathematics, science, technology and shaping the future.
 Trained as a Ph.D. in applied physics, followed by two years of research in nuclear fusion as the energy source of the future at the ITER Organization through the Monaco postdoctoral fellowship.
 Well-versed in computer science with extensive experience in Fortran, python, HPC parallel computing, git, vim, scientific visualization, among others.
-Enjoing mathematical excursions in domains such as partial differential equations, statistics, linear algebra, graph theory, neural networks.
+Enjoys mathematical excursions in domains such as partial differential equations, statistics, linear algebra, graph theory, neural networks.
 Very inquisitive and analytical.
 Loves dogs.
 Currently looking for exciting new challenges in the fields of data science and artificial intelligence.
