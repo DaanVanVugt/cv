@@ -14,6 +14,7 @@ Trained as a Ph.D. in applied physics, followed by two years of research in nucl
 Well-versed in computer science with extensive experience in Fortran, python, HPC parallel computing, git, vim, scientific visualization, among others.
 Enjoing mathematical excursions in domains such as partial differential equations, statistics, linear algebra, graph theory, neural networks.
 Very inquisitive and analytical.
+Loves dogs.
 Currently looking for exciting new challenges in the fields of data science and artificial intelligence.
 Especially interested in Bayesian Machine Learning, a thoroughly enjoyable union of mathematical rigor and machine learning superpowers.
 
