@@ -15,7 +15,7 @@ Well-versed in computer science with extensive experience in Fortran, python, HP
 Enjoing mathematical excursions in domains such as partial differential equations, statistics, linear algebra, graph theory, neural networks.
 Very inquisitive and analytical.
 Currently looking for exciting new challenges in the fields of data science and artificial intelligence.
-Especially interested in Bayesian Machine Learning, a thorougly enjoyable union of mathematical rigor and machine learning superpowers.
+Especially interested in Bayesian Machine Learning, a thoroughly enjoyable union of mathematical rigor and machine learning superpowers.
 
 ----
 
@@ -75,7 +75,7 @@ Sep '08 - Aug '10
     - Strong ties to industry
     - (Thermo-)Mechanical & Electrical engineering
     - Focus on economical aspects of energy
-    - Personal experience: exchange in TU Berlin for first half curriculum
+    - Personal experience: exchange in TU Berlin for first half of curriculum
     
     Graduated top 15%.
 
