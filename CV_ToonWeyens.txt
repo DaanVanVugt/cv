@@ -51,9 +51,14 @@ Jan ’17 - Current
     -   Using numerical code PB3D, developed as part of my Ph.D. project
         (see below)
 
+------------------------------------------------------------------------
+
+
+Education
+
 Jan ’12 - Dec ’16
 
-    DOCTORAL RESEARCHER
+    PH.D.
 
     _Universidad Carlos III de Madrid · Eindhoven University of
     Technology · ITER Organization_
@@ -68,11 +73,6 @@ Jan ’12 - Dec ’16
         J.c.P, 330]
     -   Used modern Fortran, High-Performance Parallel Computing (HPC)
         techniques
-
-------------------------------------------------------------------------
-
-
-Education
 
 Sep ’10 - Aug ’12
 
@@ -277,6 +277,14 @@ Other
 
 
 Awards & Scholarships
+
+2012-2016
+
+    DOCTORAL SCHOLARSHIP
+
+    _Universidad Carlos III de Madrid_, _CINECA_
+
+    PIF scholarship for four years, summer school funding.
 
 2017
 

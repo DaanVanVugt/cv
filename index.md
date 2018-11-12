@@ -39,8 +39,13 @@ Jan '17 - Current
     - Located at multi-billion dollar [ITER](http://iter.org/) project, world's most advanced nuclear fusion research reactor
     - Using numerical code PB3D, developed as part of my Ph.D. project (see [below](#PB3D_project))
 
+----
+
+Education
+---------
+
 Jan '12 - Dec '16
-:   **Doctoral Researcher**
+:   **Ph.D.**
     
     *[Universidad Carlos III de Madrid](https://www.uc3m.es/) · [Eindhoven University of Technology](https://www.tue.nl/) · [ITER Organization](http://iter.org/)*
 
@@ -49,11 +54,6 @@ Jan '12 - Dec '16
     - Developed dedicated mathematical theory [[Weyens et al, 2014, P.o.P, 21, 4]](https://www.researchgate.net/publication/263054885_Three-dimensional_linear_peeling-ballooning_theory_in_magnetic_fusion_devices)
     - Designed optimized numerical code, PB3D [[Weyens et al, 2017, J.c.P, 330]](https://www.researchgate.net/publication/309620864_PB3D_A_new_code_for_edge_3-D_ideal_linear_peeling-ballooning_stability)
     - Used modern Fortran, High-Performance Parallel Computing (HPC) techniques
-
-----
-
-Education
----------
 
 Sep '10 - Aug '12
 :   **Master of Science - [Nuclear Fusion Science & Technology](http://www.em-master-fusion.org/)**
@@ -227,6 +227,14 @@ Other
 
 Awards & Scholarships
 ------
+2012-2016
+:   **Doctoral Scholarship**
+    
+    *Universidad Carlos III de Madrid*, *CINECA*
+    
+    PIF scholarship for four years, summer school funding.
+
+
 2017
 :   **Ph.D. Research Award**
     
