@@ -36,7 +36,7 @@ Jan '17 - Current
     *[ITER Organization](http://iter.org/)*
 
     - Responsible for investigation of 3-D effects on Edge-Localized Modes (ELM) stability
-    - Located at multi-billion dollar [ITER](http://iter.org/) project, world's most advanced nuclear fusion research reactor
+    - Located at multi-billion dollar [ITER](http://iter.org/) project, world's biggest experiment
     - Using numerical code PB3D, developed as part of my Ph.D. project (see [below](#PB3D_project))
 
 ----
