@@ -80,6 +80,15 @@ Sep '08 - Aug '10
     
     Graduated top 15%.
 
+December '18
+:   **Online Course - Computability, Complexity & Algorithms**
+    
+    *[Udacity](https://www.udacity.com/) advanced, by [Georgia Institute of Technology](https://www.gatech.edu/)
+
+    - Languages, countability & Turing Machines
+    - Complexity: P & NP
+    - Algorithms: dynamic programming, FFT, maximum flow
+
 October '18
 :   <a name="AML_course"></a>**Online Course - Bayesian Methods for Machine Learning** (part of [Advanced Machine Learning](https://www.coursera.org/specializations/aml))
     
