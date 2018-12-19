@@ -16,14 +16,14 @@ TOON WEYENS
   of research in nuclear fusion as the energy source of the future at
   the ITER Organization through the Monaco postdoctoral fellowship.
   Well-versed in computer science with extensive experience in Fortran,
-  python, HPC parallel computing, git, vim, scientific visualization,
-  among others. Enjoys mathematical excursions in domains such as
-  partial differential equations, statistics, linear algebra, graph
-  theory, neural networks. Very inquisitive and analytical. Loves dogs.
-  Currently looking for exciting new challenges in the fields of data
-  science and artificial intelligence. Especially interested in Bayesian
-  Machine Learning, a thoroughly enjoyable union of mathematical rigor
-  and machine learning superpowers.
+  python, Matlab, HPC parallel computing, git, vim, scientific
+  visualization, among others. Enjoys mathematical excursions in domains
+  such as partial differential equations, statistics, linear algebra,
+  graph theory, neural networks. Very inquisitive and analytical. Loves
+  dogs. Currently looking for exciting new challenges in the fields of
+  data science and artificial intelligence. Especially interested in
+  Bayesian Machine Learning, a thoroughly enjoyable union of
+  mathematical rigor and machine learning superpowers.
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ Jan ’17 - Current
     -   Responsible for investigation of 3-D effects on Edge-Localized
         Modes (ELM) stability
     -   Located at multi-billion dollar ITER project, one of world’s
-        biggest experiments
+        biggest scientific projects
     -   Using numerical code PB3D, developed as part of my Ph.D. project
         (see below)
 
@@ -83,9 +83,9 @@ Sep ’10 - Aug ’12
 
     -   European program in the Erasmus Mundus framework.
     -   Fusion Engineering & Fusion Science
-    -   Focus on (European) culture and language
+    -   Focus on culture and language
 
-    Graduated top 5%.
+    Graduated top 5%
 
 Sep ’08 - Aug ’10
 
@@ -100,7 +100,7 @@ Sep ’08 - Aug ’10
     -   Personal experience: exchange in TU Berlin for first half of
         curriculum
 
-    Graduated top 15%.
+    Graduated top 15%
 
 December ’18
 
@@ -126,7 +126,7 @@ October ’18
     -   Gaussian processes & Bayesian optimization
     -   PyMC3, GPy, GPyOpt
 
-    Graduated with honors.
+    Graduated with honors
 
     certificate: link
 
@@ -167,7 +167,7 @@ Jan ’13 - Current
 
     Peeling-Ballooning in 3-D
 
-    -   Part of my doctoral research project.
+    -   Part of doctoral research project
     -   Capable of efficiently analyzing peeling-ballooning stability of
         toroidal magnetic confinement devices
     -   Crucial for nuclear fusion
@@ -200,7 +200,7 @@ Feb ’18 - Current
         Shortest Path Problem (ESPP)
     -   From recent publications, to benchmark and learn - currently:
         -   [Di Puglia Pugliese et all, 2016, Comput Optim Appl, 63]
-        -   [Boland et all, 2006, Oper Res Lett].
+        -   [Boland et all, 2006, Oper Res Lett]
     -   problem is NP-hard, so efficient solution is interesting
         mathematical and computational problem
 
@@ -212,7 +212,7 @@ Jan ’18 - Current
 
     _High-frequency crypto automated arbitrage trader_
 
-    -   Co-creator.
+    -   Co-creator
     -   Collaborative project drawing from variety of expertises
     -   Based on computational sciences & mathematicical and physical
         knowledge
@@ -294,7 +294,7 @@ Awards & Scholarships
 
     _Universidad Carlos III de Madrid_, _CINECA_
 
-    PIF scholarship for four years, summer school funding.
+    PIF scholarship for four years, summer school funding
 
 2017
 
@@ -302,11 +302,11 @@ Awards & Scholarships
 
     _European Physical Society_
 
-    The Award The Plasma Physics Division of the European Physical
-    Society (EPS) shall grant up to four prizes annually to young
-    scientists from the 38 European countries associated with the EPS in
-    recognition of truly outstanding research achievements associated
-    with their PhD study in the broad field of plasma physics.
+    The Plasma Physics Division of the European Physical Society (EPS)
+    shall grant up to four prizes annually to young scientists from the
+    38 European countries associated with the EPS in recognition of
+    truly outstanding research achievements associated with their PhD
+    study in the broad field of plasma physics
 
     website: EPS
 
@@ -316,8 +316,8 @@ Awards & Scholarships
 
     _Facebook_
 
-    10k recipients selected worldwide to start using PyTorch for
-    deep learning.
+    10k recipients selected worldwide to start using PyTorch for deep
+    learning
 
     website: Udacity
 

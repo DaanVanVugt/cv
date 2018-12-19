@@ -11,7 +11,7 @@ Toon Weyens
 
 > Passionate about mathematics, science, technology and shaping the future.
 Trained as a Ph.D. in applied physics, followed by two years of research in nuclear fusion as the energy source of the future at the ITER Organization through the Monaco postdoctoral fellowship.
-Well-versed in computer science with extensive experience in Fortran, python, HPC parallel computing, git, vim, scientific visualization, among others.
+Well-versed in computer science with extensive experience in Fortran, python, Matlab, HPC parallel computing, git, vim, scientific visualization, among others.
 Enjoys mathematical excursions in domains such as partial differential equations, statistics, linear algebra, graph theory, neural networks.
 Very inquisitive and analytical.
 Loves dogs.
@@ -37,7 +37,7 @@ Jan '17 - Current
     *[ITER Organization](http://iter.org/)*
 
     - Responsible for investigation of 3-D effects on Edge-Localized Modes (ELM) stability
-    - Located at multi-billion dollar [ITER](http://iter.org/) project, one of world's biggest experiments
+    - Located at multi-billion dollar [ITER](http://iter.org/) project, one of world's biggest scientific projects
     - Using numerical code PB3D, developed as part of my Ph.D. project (see [below](#PB3D_project))
 
 ----
@@ -63,9 +63,9 @@ Sep '10 - Aug '12
     
     - European program in the [Erasmus Mundus](https://ec.europa.eu/programmes/erasmus-plus/opportunities/individuals/students/erasmus-mundus-joint-master-degrees_en) framework. 
     - Fusion Engineering & Fusion Science
-    - Focus on (European) culture and language
+    - Focus on culture and language
     
-    Graduated top 5%.
+    Graduated top 5%
 
 Sep '08 - Aug '10
 :   **Master of Science - [Energy Engineering](http://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268954.htm )**
@@ -78,7 +78,7 @@ Sep '08 - Aug '10
     - Focus on economical aspects of energy
     - Personal experience: exchange in TU Berlin for first half of curriculum
     
-    Graduated top 15%.
+    Graduated top 15%
 
 December '18
 :   **Online Course - Computability, Complexity & Algorithms**
@@ -101,7 +101,7 @@ October '18
     - Gaussian processes & Bayesian optimization
     - [PyMC3](https://docs.pymc.io/), [GPy](https://sheffieldml.github.io/GPy/), [GPyOpt](https://sheffieldml.github.io/GPyOpt/)
 
-    Graduated with honors.
+    Graduated with honors
     
     certificate: [link](https://www.coursera.org/account/accomplishments/verify/X8NMJJA5ZCAR)
 
@@ -138,7 +138,7 @@ Jan '13 - Current
     
     **P**eeling-**B**allooning in **3**-**D**
     
-    - Part of my doctoral research project.
+    - Part of doctoral research project
     - Capable of efficiently analyzing peeling-ballooning stability of toroidal magnetic confinement devices
     - Crucial for nuclear fusion
     - Freely available and well-documented
@@ -165,7 +165,7 @@ Feb '18 - Current
     - Python implementation of promising algorithms for Elementary Shortest Path Problem (ESPP)
     - From recent publications, to benchmark and learn - currently:
         - [[Di Puglia Pugliese et all, 2016, Comput Optim Appl, 63]](https://www.researchgate.net/publication/279953870_On_the_shortest_path_problem_with_negative_cost_cycles)
-        - [[Boland et all, 2006, Oper Res Lett]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjiroPsyvHcAhVNiRoKHXVFDz4QFjABegQICRAB&url=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F222559312_Accelerated_label_setting_algorithms_for_the_elementary_resource_constrained_shortest_path_problem&usg=AOvVaw1kvbRCLlNamfAYo8r2AiRe).
+        - [[Boland et all, 2006, Oper Res Lett]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjiroPsyvHcAhVNiRoKHXVFDz4QFjABegQICRAB&url=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F222559312_Accelerated_label_setting_algorithms_for_the_elementary_resource_constrained_shortest_path_problem&usg=AOvVaw1kvbRCLlNamfAYo8r2AiRe)
     - problem is NP-hard, so efficient solution is interesting mathematical and computational problem
 
     website: [github](https://github.com/ToonWeyens/pylgrim)
@@ -175,7 +175,7 @@ Jan '18 - Current
     
     *High-frequency crypto automated arbitrage trader*
 
-    - Co-creator.
+    - Co-creator
     - Collaborative project drawing from variety of expertises
     - Based on computational sciences & mathematicical and physical knowledge
     - Supported by state of the art cryptocurrency financial modelling & deep learning strategies
@@ -242,7 +242,7 @@ Awards & Scholarships
     
     *Universidad Carlos III de Madrid*, *CINECA*
     
-    PIF scholarship for four years, summer school funding.
+    PIF scholarship for four years, summer school funding
 
 
 2017
@@ -250,7 +250,7 @@ Awards & Scholarships
     
     *European Physical Society*
     
-    The Award The Plasma Physics Division of the European Physical Society (EPS) shall grant up to four prizes annually to young scientists from the 38 European countries associated with the EPS in recognition of truly outstanding research achievements associated with their PhD study in the broad field of plasma physics. 
+    The Plasma Physics Division of the European Physical Society (EPS) shall grant up to four prizes annually to young scientists from the 38 European countries associated with the EPS in recognition of truly outstanding research achievements associated with their PhD study in the broad field of plasma physics 
     
     website: [EPS](http://plasma.ciemat.es/eps/awards/phd-research-award/)
 
@@ -259,7 +259,7 @@ Awards & Scholarships
     
     *Facebook*
     
-    10k recipients selected worldwide to start using PyTorch for deep learning.
+    10k recipients selected worldwide to start using PyTorch for deep learning
     
     website: [Udacity](https://www.udacity.com/facebook-pytorch-scholarship)
 
