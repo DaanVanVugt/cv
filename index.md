@@ -15,7 +15,7 @@ Well-versed in computer science with extensive experience in Fortran, python, Ma
 Enjoys mathematical excursions in domains such as partial differential equations, statistics, linear algebra, graph theory, neural networks.
 Very inquisitive and analytical.
 Loves dogs.
-Currently looking for exciting new challenges in the fields of data science and artificial intelligence.
+Recently started an exciting new challenge as Application Engineer at MathWorks in the fields of data science and artificial intelligence. 
 Especially interested in Bayesian Machine Learning, a thoroughly enjoyable union of mathematical rigor and machine learning superpowers.
 
 ----
