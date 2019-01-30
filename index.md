@@ -31,7 +31,16 @@ Date of birth:
 Experience
 ----------
 
-Jan '17 - Current
+Jan '19 - Current
+:   **Application Engineer, Data Science**
+    
+    *[MathWorks](https://nl.mathworks.com/)*
+
+    - Pre-sale consultancy
+    - Assist industry in adoptation of MathWorks products
+    - Prepare and deliver presentations and demonstrations to a wide audience
+
+Jan '17 - Dec '18
 :   **Postdoctoral Monaco Fellow**
     
     *[ITER Organization](http://iter.org/)*
