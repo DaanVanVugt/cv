@@ -1,204 +1,119 @@
-Toon Weyens
+Daan van Vugt
 ===========
 
-➤ EU · ✆ +32 494 39 92 19 · ✉  <weyenst@gmail.com>
+➤ The Netherlands · ✆ +31 6 52 02 88 91 · ✉  <daanvanvugt@gmail.com>
 -----------------------------------------------------------------------
-> [LinkedIn](https://www.linkedin.com/in/toonweyens/)  
-> [GitHub](http://github.com/toonweyens)  
-> [Google Scholar](https://scholar.google.com/citations?user=pn68uq0AAAAJ&hl=en&oi=sra)
+> [LinkedIn](https://www.linkedin.com/in/daanv/)  
+> [GitHub](http://github.com/exteris)  
 
 ----
-
-> Passionate about mathematics, science, technology and shaping the future.
-Trained as a Ph.D. in applied physics, followed by two years of research in nuclear fusion as the energy source of the future at the ITER Organization through the Monaco postdoctoral fellowship.
-Well-versed in computer science with extensive experience in Fortran, python, Matlab, HPC parallel computing, git, vim, scientific visualization, among others.
-Enjoys mathematical excursions in domains such as partial differential equations, statistics, linear algebra, graph theory, neural networks.
-Very inquisitive and analytical.
-Loves dogs.
-Recently started an exciting new challenge as Application Engineer at MathWorks in the fields of data science and artificial intelligence. 
-Especially interested in Bayesian Machine Learning, a thoroughly enjoyable union of mathematical rigor and machine learning superpowers.
 
 ----
 
 Nationality:
-:   Belgian
+:   Dutch
 
 Date of birth:
-:   30/12/1987
+:   11/06/1991
 
 ----
 
 Experience
 ----------
 
-Jan '19 - Current
-:   **Application Engineer, Data Science**
-    
-    *[MathWorks](https://nl.mathworks.com/)*
+2018 - present
+:   **Co-owner at [tracklete.io](https://tracklete.io)**
 
-    - Pre-sale consultancy
-    - Assist industry in adoptation of MathWorks products
-    - Prepare and deliver presentations and demonstrations to a wide audience
+    - An online system for rower performance tracking and crew management
+    - Develop the application and expand internationally
 
-Jan '17 - Dec '18
-:   **Postdoctoral Monaco Fellow**
-    
-    *[ITER Organization](http://iter.org/)*
+2017 - 2018
+:   **Developer at [chaintip.io](https://chaintip.io)**
 
-    - Responsible for investigation of 3-D effects on Edge-Localized Modes (ELM) stability
-    - Located at multi-billion dollar [ITER](http://iter.org/) project, one of world's biggest scientific projects
-    - Using numerical code PB3D, developed as part of my Ph.D. project (see [below](#PB3D_project))
+    - Building a blockchain-backed market for securities
+
+2009 - 2016
+:   **Owner at [Daan van Vugt web design & development](http://daanvanvugt.nl)**
+
+    - Building and designing websites and mobile apps
 
 ----
 
 Education
 ---------
 
-Jan '12 - Dec '16
-:   **Ph.D.**
+2015 - present (est. June 2019)
+:   **Ph.D. in Applied Physics**
     
-    *[Universidad Carlos III de Madrid](https://www.uc3m.es/) · [Eindhoven University of Technology](https://www.tue.nl/) · [ITER Organization](http://iter.org/)*
+    *[Eindhoven University of Technology](https://www.tue.nl/) · [ITER Organization](http://iter.org/)*
 
-    - Designed research project to improve understanding of *high-n* instabilities
-    - Important class of instabilities in toroidal magnetic confinement devices for nuclear fusion
-    - Developed dedicated mathematical theory [[Weyens et al, 2014, P.o.P, 21, 4]](https://www.researchgate.net/publication/263054885_Three-dimensional_linear_peeling-ballooning_theory_in_magnetic_fusion_devices)
-    - Designed optimized numerical code, PB3D [[Weyens et al, 2017, J.c.P, 330]](https://www.researchgate.net/publication/309620864_PB3D_A_new_code_for_edge_3-D_ideal_linear_peeling-ballooning_stability)
-    - Used modern Fortran, High-Performance Parallel Computing (HPC) techniques
+    - Specialisation in Science and Technology of Nuclear fusion
+    - Thesis on "Nonlinear coupled MHD-kinetic particle simulations of heavy impurities in tokamak plasmas"
+    - Extended the existing MHD code [JOREK](https://jorek.eu) with a kinetic particle transport model, with particle sputtering, reflection, ionisation, recombination, radiation, particle-background collisions and feedback to the MHD fluid.
+    - Spent two years at ITER Organization, site of the multi-billion dollar ITER tokamak
+    - Used modern Fortran, High-Performance Computing (HPC) techniques
 
-Sep '10 - Aug '12
-:   **Master of Science - [Nuclear Fusion Science & Technology](http://www.em-master-fusion.org/)**
+2012 - 2015
+:   **Master of Science (Cum Laude) in [Applied Physics](https://www.tue.nl/en/education/graduate-school/master-applied-physics/)**
     
-    *[Ghent University](https://www.ugent.be/en) · [Universidad Carlos III de Madrid](https://www.uc3m.es/) · [Université de Lorraine](www.univ-lorraine.fr/)*
-    
-    - European program in the [Erasmus Mundus](https://ec.europa.eu/programmes/erasmus-plus/opportunities/individuals/students/erasmus-mundus-joint-master-degrees_en) framework. 
-    - Fusion Engineering & Fusion Science
-    - Focus on culture and language
-    
-    Graduated top 5%
+    *[Eindhoven University of Technology](https://www.tue.nl/) · [ASML](https://asml.com/)*
 
-Sep '08 - Aug '10
-:   **Master of Science - [Energy Engineering](http://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268954.htm )**
-    
-    *[University of Leuven](https://www.kuleuven.be/english/) · [Technische Universität Berlin](www.tu-berlin.de/) (exchange)*
+    - Specialisation in fluid dynamics
+    - Thesis on "Droplet Collisions for target shaping in EUV Sources" at ASML Research (grade: 9)
 
-    - Multidisciplinary curriculum
-    - Strong ties to industry
-    - (Thermo-)Mechanical & Electrical engineering
-    - Focus on economical aspects of energy
-    - Personal experience: exchange in TU Berlin for first half of curriculum
-    
-    Graduated top 15%
+2012 - 2013
+:   **Certificate Technical Management**
+    *[Eindhoven University of Technology](https://www.tue.nl/)*
 
-December '18
-:   **Online Course - Computability, Complexity & Algorithms**
-    
-    *[Udacity](https://www.udacity.com/) advanced, by [Georgia Institute of Technology](https://www.gatech.edu/)
+2009 - 2012
+:   **Bachelor of Science in [Applied Physics](https://www.tue.nl/en/education/bachelor-college/bachelor-applied-physics/)**
 
-    - Languages, countability & Turing Machines
-    - Complexity: P & NP
-    - Algorithms: dynamic programming, FFT, maximum flow
+    *[Eindhoven University of Technology](https://www.tue.nl/)*
+    
+    - Thesis on "Ultrafast, non-linear photoemission from a copper cathode" (grade: 9)
 
-October '18
-:   <a name="AML_course"></a>**Online Course - Bayesian Methods for Machine Learning** (part of [Advanced Machine Learning](https://www.coursera.org/specializations/aml))
-    
-    *[Coursera](https://www.coursera.org/) advanced, by [Higher School of Economics](https://www.hse.ru/en/) Moscow*
+2003 - 2009
+:   **Gymnasium in track `Nature and Technology'**
 
-    - Expectation-Maximization (EM) algorithm
-    - Variational Inference & Latent Dirichlet Allocation
-    - Markov chain Monte Carlo
-    - Variational Autoencoder
-    - Gaussian processes & Bayesian optimization
-    - [PyMC3](https://docs.pymc.io/), [GPy](https://sheffieldml.github.io/GPy/), [GPyOpt](https://sheffieldml.github.io/GPyOpt/)
-
-    Graduated with honors
+    *[Titus Brandsma Lyceum, Oss](https://tbl.hethooghuis.nl/)*
     
-    certificate: [link](https://www.coursera.org/account/accomplishments/verify/X8NMJJA5ZCAR)
-
-May '18
-:   **Online Specialization - [Deep Learning](https://www.coursera.org/specializations/deep-learning)**
-    
-    *[Coursera](https://www.coursera.org/) intermediate, by Andrew Ng*
-    
-    - Deep learning foundations by master educator Andrew Ng
-    - Convolutional neural networks
-    - Sequence models: RNN, (Bi)LSTM, GRU
-    - Optimizers: Stochastic, Adam, AdaMax
-    - Overfitting:  dropout, BatchNorm
-    - [TensorFlow](https://www.tensorflow.org) & [Keras](https://keras.io/)
-    
-    certificate: [link](https://www.coursera.org/account/accomplishments/specialization/LGBBTZSV3E3S)
-
-May '14
-:   **Summer School - [23rd Summer School on Parallel Computing](http://www.hpc.cineca.it/content/25th-summer-school-parallel-computing)**
-    
-    *[CINECA](https://www.cineca.it/en), Casalecchio Di Reno*
-    
-    - 10 day intense graduate HPC course
-    - Modern parallel computing systems for computation
-    - HPC introduction, parallel architectures, MPI & OpenMP
-    - Profilers & debuggers
+    - Extra subjects: Latin, Management \& Organisation, Biology.
 
 ----
 
 Projects
 --------
-Jan '13 - Current
-:   <a name="PB3D_project"></a>**PB3D**
-    
-    **P**eeling-**B**allooning in **3**-**D**
-    
-    - Part of doctoral research project
-    - Capable of efficiently analyzing peeling-ballooning stability of toroidal magnetic confinement devices
-    - Crucial for nuclear fusion
-    - Freely available and well-documented
-    
-    *for experts:*
 
-    - Mathematical mimization of functional, leading to generalized eigenvalue equation
-    - *high-n* instabilities easily excited, couple plasma (150 million °C) to the cold reactor walls (−260.8 °C)
-    - General 3-D configurations, perturbed plasma edge [[Weyens et al, 2017, J.c.P, 330]](https://www.researchgate.net/publication/309620864_PB3D_A_new_code_for_edge_3-D_ideal_linear_peeling-ballooning_stability)
-    - Postdoctoral research: investigate 3-D effects
-        - resonant magnetic perturbations for ELM control (RMP)
-        - toroidal field coil (TF) ripple
-    
-    
-    website: [PB3D.github.io](https://PB3D.github.io/)
-    
-    source: [github](https://github.com/ToonWeyens/PB3D)
 
-Feb '18 - Current
-:   **Pylgrim**
-    
-    *Elementary Shortest Path Problem with or without Resource Constraint*
-    
-    - Python implementation of promising algorithms for Elementary Shortest Path Problem (ESPP)
-    - From recent publications, to benchmark and learn - currently:
-        - [[Di Puglia Pugliese et all, 2016, Comput Optim Appl, 63]](https://www.researchgate.net/publication/279953870_On_the_shortest_path_problem_with_negative_cost_cycles)
-        - [[Boland et all, 2006, Oper Res Lett]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjiroPsyvHcAhVNiRoKHXVFDz4QFjABegQICRAB&url=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F222559312_Accelerated_label_setting_algorithms_for_the_elementary_resource_constrained_shortest_path_problem&usg=AOvVaw1kvbRCLlNamfAYo8r2AiRe)
-    - problem is NP-hard, so efficient solution is interesting mathematical and computational problem
-
-    website: [github](https://github.com/ToonWeyens/pylgrim)
-
-Jan '18 - Current
+2018 - Current
 :   **Kraemer**
     
-    *High-frequency crypto automated arbitrage trader*
+    *High-frequency crypto arbitrage trading bot*
 
-    - Co-creator
+    - Co-created with Toon Weyens
+    - Arbitrage trading within and between multiple crypto-currency exchanges
+    - High-speed data processing and trade evaluation in parallel
     - Collaborative project drawing from variety of expertises
     - Based on computational sciences & mathematicical and physical knowledge
     - Supported by state of the art cryptocurrency financial modelling & deep learning strategies
 
-Oct '18
-:   **Facial Composits: Finding the Suspect**
+2013 - 2017
+:   **RFID payments for PIRAAT**
 
-    *Capstone project for [Bayesian Methods for Machine Learning](#AML_course)*
+    - Created system for secure storage of account balances and payment by card
+    - Authenticated card charging by servers, analysis tool for treasurer
 
-    - Helps you with getting face of suspect in crime
-    - Employed variational autoencoder in Keras and Tensorflow to generate face images
-    - Combined with Gaussian Process Optimization through GpyOpt
-    - Interacts with you through simple binary *yes*/*no* questions
-    - Optimized program to require minimal amount of interaction
+2010 - 2011
+:   **PIRAAT**
+
+    *Point-of-Sale system for study association bar*
+
+    - Central application server (python) and database with paper trail
+    - Multiple clients (C++, Qt) with floating accounts
+    - User-interface optimized for speed even with large menus
+    - Resilient to network failure
+    - Cross-compile and deploy client to Android or embedded systems
+    - Has processed over 280 000 &eur; in payments
 
 ----
 
@@ -207,70 +122,54 @@ Skills
 Languages
 :   |            |       |
     | -----------| ----- |
-    | English    | ★★★★★ |
     | Dutch      | ★★★★★ |
-    | Spanish    | ★★★★★ |
+    | English    | ★★★★★ |
     | French     | ★★★★☆ |
-    | German     | ★★★★☆ |
-    | Portuguese | ★★★☆☆ |
-    | Italian    | ★★☆☆☆ |
+    | German     | ★★★☆☆ |
+    | Spanish    | ★☆☆☆☆ |
 
 Computer
-:   * **[Linux](https://www.linux.org/)** · daily and much-preferred operating system
-    * **[vim](https://www.vim.org/)** · daily and much-preferred editor
+:   * **[Linux](https://www.linux.org/)** · daily operating system
+    * **[Vim](https://www.vim.org/)** · daily editor
     * **[LaTeX](https://www.latex-project.org/)** · preferred tool for documents
-    * **[html, CSS](https://www.w3.org/standards/webdesign/htmlcss)** · used for this curriculum vitae (with markdown → Pandoc)
-    * **[git](https://git-scm.com/)** · for version control of virtually all my documents and projects
-    * **[jira](https://www.atlassian.com/software/jira)** · Agile by Atlassian
-    * **[ParaView](https://www.paraview.org/), [VisIt](https://visit.llnl.gov/)** · favorite 3-D visualization tools, combined with HDF5 and XDMF
-    * **[HDF5](https://www.hdfgroup.org/HDF5/) with [XDMF](https://xmswiki.com/wiki/XMDF)** · best data model, both for storage and for visualization
+    * **[HTML, CSS](https://www.w3.org/standards/webdesign/htmlcss)** · used for this curriculum vitae (with markdown → Pandoc)
+    * **Microsoft Office** · Where useful
+    * **[Git](https://git-scm.com/)** · For version control of virtually everything
+    * **[ParaView](https://www.paraview.org/) and [VTK](https://vtk.org)** · Great 3D visualisation tools
+    * **[HDF5](https://www.hdfgroup.org/HDF5/)** · TB-scale simulation data storage (with JOREK)
 
 Programming
-:   * **Fortran** · HPC application such as [PB3D](https://PB3D.github.io/)
-    * **Python** · numpy, scipy, pandas, cython, aioprocessing, ...
-    * **Matlab** · Daily scripting but also larger applications
-    * **C++** · especially useful paired with the [BOOST](http://boost.org/) library
-    * **TensorFlow**, **Keras** · Deep Learning quick modelling
-    * **PyMC3**, **GPy**, **GPyOpt** · Bayesian Machine Learning
-    * **MPI**, **OpenMP** · parallelization for HPC
-    * **jupyter notebooks** · exploratory programming
-    * **Bash**, **Make, ...** · daily scripting and development
-    * **MySQL** · simple database
-    * **LaTeX**, **LuaTeX** · large documents, such as Ph.D. [dissertation](https://toonweyens.github.io/PB3D/dissertation_TOON_WEYENS.pdf)
-
-Other
-:   * **[Fusion DC](http://www.em-fusion-dc.org/)** 2016 Program Representative
-    * **[TGD Solutions](http://tgdsolutions.net/)** board member
+:   * **Fortran** · HPC application such as [JOREK](https://jorek.eu/) in modern Fortran (2003+)
+    * **MPI**, **OpenMP** · Parallelization for HPC
+    * **Python** · Numpy, scipy, numba, cython, matplotlib, pandas, asyncio, ...
+    * **Ruby** · Ruby on Rails and other tools for web
+    * **MATLAB** (& octave) · Data analysis, quick computations
+    * **Mathematica** · Symbolic computing
+    * **C** · Low-level language
+    * **C++** · A higher-level C-like language
+    * **Haskell** · Functional programming
+    * **PHP** · For web development
+    * **Perl** · Perfect for text manipulation
+    * **SQL** · With experience in database design and performance optimisation
+    * **JS** · Interactivity in web pages
+    * **Bash**, **Fish**, **Make, ...** · daily scripting and development
 
 ----
 
-Awards & Scholarships
+Awards
 ------
-2012-2016
-:   **Doctoral Scholarship**
-    
-    *Universidad Carlos III de Madrid*, *CINECA*
-    
-    PIF scholarship for four years, summer school funding
+2014
+:   **3<sup>rd</sup> Master team in [Dutch Physics Competition (PION)](https://pion.vvtp.tudelft.nl)**
 
+2009
+:   **1<sup>st</sup> place in United 4 Sailing Splash ranking**
 
-2017
-:   **Ph.D. Research Award**
-    
-    *European Physical Society*
-    
-    The Plasma Physics Division of the European Physical Society (EPS) shall grant up to four prizes annually to young scientists from the 38 European countries associated with the EPS in recognition of truly outstanding research achievements associated with their PhD study in the broad field of plasma physics 
-    
-    website: [EPS](http://plasma.ciemat.es/eps/awards/phd-research-award/)
+    36<sup>th</sup> at Splash world championship**
 
-2019
-:   **PyTorch Scholarship Challenge**
-    
-    *Facebook*
-    
-    10k recipients selected worldwide to start using PyTorch for deep learning
-    
-    website: [Udacity](https://www.udacity.com/facebook-pytorch-scholarship)
+2007
+:   **1<sup>st</sup> place at the German Open Splash sailing championship**
+
+    2<sup>nd</sup> place on the European Open Splash sailing championships ladder
 
 ----
 
@@ -298,19 +197,10 @@ References
     | ✆  | +33 4 42 256152                                  |
 
 👤
-:   **Prof. Dr. Raul Sánchez**
-    
-    *full professor at Universidad Carlos III de Madrid*
-    
-    |    |                                              |
-    | ---| -------------------------------------------- |
-    | ✉  | [rsanchez@fis.uc3m.es](rsanchez@fis.uc3m.es) |
-    | ✆  | +34 91 6246001                               |
-
 ----
 -->
 
-> ➤ Aix-en-Provence, France · ✆ +32 494 39 92 19 · ✉  <weyenst@gmail.com>
+> ➤ Eindhoven, the Netherlands · ✆ +31 6 52 02 88 91 · ✉  <daanvanvugt@gmail.com>
 
-> [pdf version](https://raw.githubusercontent.com/ToonWeyens/toonweyens.github.io/master/CV_ToonWeyens.pdf) · [txt version](https://raw.githubusercontent.com/ToonWeyens/toonweyens.github.io/master/CV_ToonWeyens.txt) · [html version](https://toonweyens.github.io/) · [source](https://github.com/ToonWeyens/toonweyens.github.io)
+> [pdf version](https://raw.githubusercontent.com/exteris/cv/master/CV_DaanVanVugt.pdf) · [txt version](https://raw.githubusercontent.com/exteris/cv/master/CV_DaanVanVugt.txt) · [html version](https://cv.daanvanvugt.nl/) · [source](https://github.com/exteris/cv)
 

@@ -5,7 +5,7 @@ const puppeteer = require("puppeteer");
   const page = await browser.newPage();
   await page.goto("file://" + process.cwd() + "/" + "index.html");
   await page.pdf({
-    path: "CV_ToonWeyens.pdf",
+    path: "CV_DaanVanVugt.pdf",
     format: "A4",
     printBackground: true,
     displayHeaderFooter: false,

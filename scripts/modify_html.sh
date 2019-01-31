@@ -7,7 +7,7 @@ sed -i -e ${h1_line}'d' index.html
 
 echo 'color last name in h1'
 h1_line=$(grep -n -m 1 '<h1 id' index.html | cut -f1 -d":")
-sed -i ${h1_line}'s/Toon Weyens/<span style="font-weight:100">Toon<\/span> <span style="color: #BD5D38;">Weyens<\/span>/' index.html
+sed -i ${h1_line}'s/Daan van Vugt/<span style="font-weight:100; color: #BD5D38;">Daan<\/span> <span style="font-weight: 100;">van Vugt<\/span>/' index.html
 
 echo 'change layout of first h2, which contains personal information'
 h2_line=$(grep -n -m 1 '<h2 id' index.html | cut -f1 -d":")
@@ -20,9 +20,9 @@ sed -i ${headend_line}"i  <link rel=\"stylesheet\" href=$(sed 's|/|\\/|g' <<< ${
 
 echo 'add media logos'
 # set up variables
-nr_media=3
-declare -a urls=("https://www.linkedin.com/in/toonweyens/" "https://github.com/toonweyens" "https://scholar.google.com/citations?user=pn68uq0AAAAJ&hl=en&oi=sra")
-declare -a names=("linkedin" "github" "google")
+nr_media=2
+declare -a urls=("https://www.linkedin.com/in/daanv/" "https://github.com/exteris")
+declare -a names=("linkedin" "github")
 # change blockquote to a centered div
 media_line=$(grep -n -m 1 'blockquote' index.html | cut -f1 -d":")
 sed -i ${media_line}'s/blockquote/div style="text-align:center; margin-bottom:15px"/' index.html

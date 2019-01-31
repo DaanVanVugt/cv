@@ -1,4 +1,4 @@
-NODE_EXISTS=$(shell [ -d puppeteer/node_modules ] && echo 1 || echo 0 )
+NODE_EXISTS=$(shell [ -d node_modules ] && echo 1 || echo 0 )
 
 all: html pdf txt
 
@@ -16,7 +16,7 @@ endif
 
 
 txt: index.md
-	pandoc --standalone --smart --from markdown --to plain -o CV_ToonWeyens.txt index.md
+	pandoc --standalone --from markdown+smart --to plain -o CV_DaanVanVugt.txt index.md
 
 clean:
 	rm -f *.html *.pdf *.txt

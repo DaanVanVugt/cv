@@ -1,0 +1,215 @@
+
+
+DAAN VAN VUGT
+
+
+➤ The Netherlands · ✆ +31 6 52 02 88 91 · ✉ daanvanvugt@gmail.com
+
+  LinkedIn
+  GitHub
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+Nationality:
+    Dutch
+
+Date of birth:
+    11/06/1991
+
+------------------------------------------------------------------------
+
+
+Experience
+
+2018 - present
+
+    CO-OWNER AT TRACKLETE.IO
+
+    -   An online system for rower performance tracking and crew
+        management
+    -   Develop the application and expand internationally
+
+2017 - 2018
+
+    DEVELOPER AT CHAINTIP.IO
+
+    -   Building a blockchain-backed market for securities
+
+2009 - 2016
+
+    OWNER AT DAAN VAN VUGT WEB DESIGN & DEVELOPMENT
+
+    -   Building and designing websites and mobile apps
+
+------------------------------------------------------------------------
+
+
+Education
+
+2015 - present (est. June 2019)
+
+    PH.D. IN APPLIED PHYSICS
+
+    _Eindhoven University of Technology · ITER Organization_
+
+    -   Specialisation in Science and Technology of Nuclear fusion
+    -   Thesis on “Nonlinear coupled MHD-kinetic particle simulations of
+        heavy impurities in tokamak plasmas”
+    -   Extended the existing MHD code JOREK with a kinetic particle
+        transport model, with particle sputtering, reflection,
+        ionisation, recombination, radiation, particle-background
+        collisions and feedback to the MHD fluid.
+    -   Spent two years at ITER Organization, site of the multi-billion
+        dollar ITER tokamak
+    -   Used modern Fortran, High-Performance Computing (HPC) techniques
+
+2012 - 2015
+
+    MASTER OF SCIENCE (CUM LAUDE) IN APPLIED PHYSICS
+
+    _Eindhoven University of Technology · ASML_
+
+    -   Specialisation in fluid dynamics
+    -   Thesis on “Droplet Collisions for target shaping in EUV Sources”
+        at ASML Research (grade: 9)
+
+2012 - 2013
+    CERTIFICATE TECHNICAL MANAGEMENT _Eindhoven University of
+    Technology_
+
+2009 - 2012
+
+    BACHELOR OF SCIENCE IN APPLIED PHYSICS
+
+    _Eindhoven University of Technology_
+
+    -   Thesis on “Ultrafast, non-linear photoemission from a copper
+        cathode” (grade: 9)
+
+2003 - 2009
+
+    GYMNASIUM IN TRACK `NATURE AND TECHNOLOGY’
+
+    _Titus Brandsma Lyceum, Oss_
+
+    -   Extra subjects: Latin, Management & Organisation, Biology.
+
+------------------------------------------------------------------------
+
+
+Projects
+
+2018 - Current
+
+    KRAEMER
+
+    _High-frequency crypto arbitrage trading bot_
+
+    -   Co-created with Toon Weyens
+    -   Arbitrage trading within and between multiple crypto-currency
+        exchanges
+    -   High-speed data processing and trade evaluation in parallel
+    -   Collaborative project drawing from variety of expertises
+    -   Based on computational sciences & mathematicical and physical
+        knowledge
+    -   Supported by state of the art cryptocurrency financial modelling
+        & deep learning strategies
+
+2013 - 2017
+
+    RFID PAYMENTS FOR PIRAAT
+
+    -   Created system for secure storage of account balances and
+        payment by card
+    -   Authenticated card charging by servers, analysis tool for
+        treasurer
+
+2010 - 2011
+
+    PIRAAT
+
+    _Point-of-Sale system for study association bar_
+
+    -   Central application server (python) and database with paper
+        trail
+    -   Multiple clients (C++, Qt) with floating accounts
+    -   User-interface optimized for speed even with large menus
+    -   Resilient to network failure
+    -   Cross-compile and deploy client to Android or embedded systems
+    -   Has processed over 280 000 &eur; in payments
+
+------------------------------------------------------------------------
+
+
+Skills
+
+Languages
+
+    --------- -------
+      Dutch     ★★★★★
+      English   ★★★★★
+      French    ★★★★☆
+      German    ★★★☆☆
+      Spanish   ★☆☆☆☆
+      --------- -------
+
+Computer
+
+    -   LINUX · daily operating system
+    -   VIM · daily editor
+    -   LATEX · preferred tool for documents
+    -   HTML, CSS · used for this curriculum vitae (with markdown →
+        Pandoc)
+    -   MICROSOFT OFFICE · Where useful
+    -   GIT · For version control of virtually everything
+    -   PARAVIEW AND VTK · Great 3D visualisation tools
+    -   HDF5 · TB-scale simulation data storage (with JOREK)
+
+Programming
+
+    -   FORTRAN · HPC application such as JOREK in modern Fortran
+        (2003+)
+    -   MPI, OPENMP · Parallelization for HPC
+    -   PYTHON · Numpy, scipy, numba, cython, matplotlib, pandas,
+        asyncio, …
+    -   RUBY · Ruby on Rails and other tools for web
+    -   MATLAB (& octave) · Data analysis, quick computations
+    -   MATHEMATICA · Symbolic computing
+    -   C · Low-level language
+    -   C++ · A higher-level C-like language
+    -   HASKELL · Functional programming
+    -   PHP · For web development
+    -   PERL · Perfect for text manipulation
+    -   SQL · With experience in database design and performance
+        optimisation
+    -   JS · Interactivity in web pages
+    -   BASH, FISH, MAKE, … · daily scripting and development
+
+------------------------------------------------------------------------
+
+
+Awards
+
+2014
+    3RD MASTER TEAM IN DUTCH PHYSICS COMPETITION (PION)
+
+2009
+
+    1ST PLACE IN UNITED 4 SAILING SPLASH RANKING
+
+    36th at Splash world championship**
+
+2007
+
+    1ST PLACE AT THE GERMAN OPEN SPLASH SAILING CHAMPIONSHIP
+
+    2nd place on the European Open Splash sailing championships ladder
+
+------------------------------------------------------------------------
+
+  ➤ Eindhoven, the Netherlands · ✆ +31 6 52 02 88 91 · ✉
+  daanvanvugt@gmail.com
+
+  pdf version · txt version · html version · source
