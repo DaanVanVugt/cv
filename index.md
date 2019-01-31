@@ -8,8 +8,6 @@ Daan van Vugt
 
 ----
 
-----
-
 Nationality:
 :   Dutch
 
@@ -96,6 +94,30 @@ Projects
     - Collaborative project drawing from variety of expertises
     - Based on computational sciences & mathematicical and physical knowledge
     - Supported by state of the art cryptocurrency financial modelling & deep learning strategies
+
+2018
+:   **ParaView Python File Readers**
+
+    - Implemented a python programmable filter, which is configured to act as a FileReader
+    - Easy and performant implementation of readers for arbitrary filetypes in ParaView
+
+2018
+:   **Passport Machine-Readable-Zone detection**
+    
+    - Read the MRZ from passports and ID cards using [Tesseract](https://github.com/tesseract-ocr)
+    - Works on mobile devices, without installation
+    - [Source on Github](https://github.com/exteris/tesseract-mrz)
+
+2018
+:  **Human-readable compression of `ls` output: [lsdeflate](https://github.com/exteris/lsdeflate)**
+
+    - Find sequences of files, and display them in a short way
+
+2017
+:   **Low-discrepancy sequences for Monte-Carlo simulations**
+
+    - Implemented [Sobol' sequence generators in Fortran](https://github.com/Exteris/sobseq)
+    - Improved convergence on some simulations from N<sup>-1/2</sup> to N<sup>-1</sup>
 
 2013 - 2017
 :   **RFID payments for PIRAAT**

@@ -10,8 +10,6 @@ DAAN VAN VUGT
 
 ------------------------------------------------------------------------
 
-------------------------------------------------------------------------
-
 Nationality:
     Dutch
 
@@ -116,6 +114,36 @@ Projects
         knowledge
     -   Supported by state of the art cryptocurrency financial modelling
         & deep learning strategies
+
+2018
+
+    PARAVIEW PYTHON FILE READERS
+
+    -   Implemented a python programmable filter, which is configured to
+        act as a FileReader
+    -   Easy and performant implementation of readers for arbitrary
+        filetypes in ParaView
+
+2018
+
+    PASSPORT MACHINE-READABLE-ZONE DETECTION
+
+    -   Read the MRZ from passports and ID cards using Tesseract
+    -   Works on mobile devices, without installation
+    -   Source on Github
+
+2018
+
+    HUMAN-READABLE COMPRESSION OF ls OUTPUT: LSDEFLATE
+
+    -   Find sequences of files, and display them in a short way
+
+2017
+
+    LOW-DISCREPANCY SEQUENCES FOR MONTE-CARLO SIMULATIONS
+
+    -   Implemented Sobol’ sequence generators in Fortran
+    -   Improved convergence on some simulations from N-1/2 to N-1
 
 2013 - 2017
 
