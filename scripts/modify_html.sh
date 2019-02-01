@@ -40,7 +40,7 @@ done
 
 echo 'fancify symbols'
 sed -i 's|★|<span class="fas fa-star"></span>|g' index.html
-sed -i 's|½|<span class="fa-stack"><span class="fas fa-star fa-star-half fa-stack-1x"></span><span class="far fa-star fa-stack-1x"></span></span>|g' index.html
+sed -i 's|½|<span class="fa-stack fa-stacked-stars"><span class="fas fa-star fa-star-half fa-stack-1x"></span><span class="far fa-star fa-stack-1x"></span></span>|g' index.html
 sed -i 's|☆|<span class="far fa-star"></span>|g' index.html
 sed -i 's|→|<span class="fas fa-arrow-right"></span>|g' index.html
 sed -i 's|✆|<span class="fas fa-phone"></span>|g' index.html
