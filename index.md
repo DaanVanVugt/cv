@@ -146,8 +146,8 @@ Languages
     | -----------| ----- |
     | Dutch      | ★★★★★ |
     | English    | ★★★★★ |
-    | French     | ★★★★☆ |
-    | German     | ★★★☆☆ |
+    | French     | ★★★½☆ |
+    | German     | ★★½☆☆ |
     | Spanish    | ★☆☆☆☆ |
 
 Computer
