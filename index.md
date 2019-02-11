@@ -6,13 +6,6 @@ Daan van Vugt
 > [LinkedIn](https://www.linkedin.com/in/daanv/)  
 > [GitHub](http://github.com/exteris)  
 
-----
-
-Nationality:
-:   Dutch
-
-Date of birth:
-:   11/06/1991
 
 ----
 
@@ -23,7 +16,8 @@ Experience
 :   **Co-owner at [tracklete.io](https://tracklete.io)**
 
     - An online system for rower performance tracking and crew management
-    - Develop the application and expand internationally
+    - Develop the web application, focusing on workout analytics and GPS data
+    - Work on strategy for (international) expansion
 
 2017 - 2018
 :   **Developer at [chaintip.io](https://chaintip.io)**
@@ -79,14 +73,40 @@ Education
 
 ----
 
+Teaching experience
+-------------------
+2018
+:    **Masterclass on computational magnetohydrodynamics**
+
+    - Finite difference, finite element methods, refinement
+    - Matrix solutions, sparse matrices, preconditioning
+    - Time-evolution, Neumann stability analysis, Newton-Krylov method
+    - Navier-Stokes, MagnetoHydroDynamics (MHD)
+    - Visualisation, HPC, parallelisation, verification & validation
+    - 50 hours in 5 days
+    - 12 hours of lectures, rest hands-on experimentation in Fortran
+
+2016 & 2017
+:    **Co-lecturer masterclass on computational magnetohydrodynamics**
+
+    - Lectures on computational best practices, Unix, Fortran, Git, HPC, MPI & OpenMP
+    - With prof. dr. ir. G.T.A. Huijsmans
+
+2015 - 2019
+:    **Student supervision**
+
+    - Master thesis on kinetic modelling of neutral deuterium in tokamaks
+    - Master thesis on fluid modelling of neutral deuterium in tokamaks
+    - Master thesis on impurity-dependence of the tokamak density limit
+    - Master internships on low-discrepancy sequences, physical sputtering
+
 Projects
 --------
 
 
 2018 - Current
 :   **Kraemer**
-    
-    *High-frequency crypto arbitrage trading bot*
+    *High-frequency crypto-currency arbitrage trading bot*
 
     - Co-created with Toon Weyens
     - Arbitrage trading within and between multiple crypto-currency exchanges
@@ -108,17 +128,38 @@ Projects
     - Read the MRZ from passports and ID cards using [Tesseract](https://github.com/tesseract-ocr)
     - Works on mobile devices, without installation (for use in progressive web apps)
 
-2018
+2017
+:   **Database design for GKDB**
+
+    - GyroKineticDataBase, storing (non-)linear gyrokinetic simulation results for fusion
+    - Flexible storage scheme for different codes implemented in PostgreSQL
+
+2017
 :  **Human-readable compression of `ls` output: [lsdeflate](https://github.com/exteris/lsdeflate)**
 
-    - Find sequences of files, and display them in a compressed format, like file{001..100}.dat
+    - Simplify ls output with a compressed format, like file{001..100}.dat
 
 2017
 :   **Low-discrepancy sequences for Monte-Carlo simulations**
 
     - Implemented [Sobol' sequence generators in Fortran](https://github.com/Exteris/sobseq)
-    - Improved convergence on Monte-Carlo simulations from N<sup>-1/2</sup> to N<sup>-1</sup> compared against [PCG32 RNG](https://github.com/Exteris/pcg32-fortran]
+    - Improved Monte-Carlo convergence from N<sup>-1/2</sup> to N<sup>-1</sup> vs [PCG32 RNG](https://github.com/Exteris/pcg32-fortran)
     - Special emphasis on parallel usage with strided generators
+
+2015
+:   **Lets**
+    *Activity planner for sports and events*
+
+    - Notification-based invitation system for events
+    - iOS, Android phonegap apps + web
+
+2014 - 2015
+:   **Owe**
+    *group payment tracker*
+
+    - Track balances between users in a weighted graph
+    - Propose transaction-free settlements
+    - iOS, Android phonegap apps, web portal
 
 2013 - 2017
 :   **RFID payments for PIRAAT**
@@ -126,9 +167,22 @@ Projects
     - Created system for secure storage of account balances and payment by card
     - Authenticated card charging by servers, analysis tool for treasurer
 
+2013 - 2014
+:   **CCeXchange**
+
+    - A trustworthy crypto-currency exchange based in NL
+    - Ruby on Rails, PostgreSQL with a state-of-the-art trade execution engine in C
+    - Abandoned due to regulatory uncertainty
+
+2012
+:   **Ad-hoc mesh network for communication and localisation**
+    
+    - Useful in situations with poor internet connectivity
+    - Like [FireChat](https://en.wikipedia.org/wiki/FireChat) (released 2014)
+    - Created feasibility study and intellectual property protection plan
+
 2010 - 2011
 :   **PIRAAT**
-
     *Point-of-Sale system for study association bar*
 
     - Central application server (python) and database with paper trail
@@ -136,7 +190,7 @@ Projects
     - User-interface optimized for speed even with large menus
     - Resilient to network failure
     - Cross-compile and deploy client to Android or embedded systems
-    - Has processed over 280 000 &eur; in payments
+    - Has processed over 280 000 € in payments
 
 ----
 
@@ -163,8 +217,8 @@ Computer
 
 Programming
 :   * **Fortran** · HPC application such as [JOREK](https://jorek.eu/) in modern Fortran (2003+)
-    * **MPI**, **OpenMP** · Parallelization for HPC
     * **Python** · Numpy, scipy, numba, cython, matplotlib, pandas, asyncio, ...
+    * **MPI**, **OpenMP** · Parallelization for HPC
     * **Ruby** · Ruby on Rails and other tools for web
     * **MATLAB** (& octave) · Data analysis, quick computations
     * **Mathematica** · Symbolic computing
@@ -174,7 +228,7 @@ Programming
     * **PHP** · For web development
     * **Perl** · Perfect for text manipulation
     * **SQL** · With experience in database design and performance optimisation
-    * **JS** · Interactivity in web pages
+    * **Javascript (JS)** · Interactivity in web pages (with jQuery, React, Angular, Blaze and D3.js)
     * **Bash**, **Fish**, **Make, ...** · daily scripting and development
 
 ----

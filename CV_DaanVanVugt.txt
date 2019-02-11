@@ -10,14 +10,6 @@ DAAN VAN VUGT
 
 ------------------------------------------------------------------------
 
-Nationality:
-    Dutch
-
-Date of birth:
-    11/06/1991
-
-------------------------------------------------------------------------
-
 
 Experience
 
@@ -27,7 +19,9 @@ Experience
 
     -   An online system for rower performance tracking and crew
         management
-    -   Develop the application and expand internationally
+    -   Develop the web application, focusing on workout analytics and
+        GPS data
+    -   Work on strategy for (international) expansion
 
 2017 - 2018
 
@@ -97,13 +91,47 @@ Education
 ------------------------------------------------------------------------
 
 
+Teaching experience
+
+2018
+
+    MASTERCLASS ON COMPUTATIONAL MAGNETOHYDRODYNAMICS
+
+    -   Finite difference, finite element methods, refinement
+    -   Matrix solutions, sparse matrices, preconditioning
+    -   Time-evolution, Neumann stability analysis, Newton-Krylov method
+    -   Navier-Stokes, MagnetoHydroDynamics (MHD)
+    -   Visualisation, HPC, parallelisation, verification & validation
+    -   50 hours in 5 days
+    -   12 hours of lectures, rest hands-on experimentation in Fortran
+
+2016 & 2017
+
+    CO-LECTURER MASTERCLASS ON COMPUTATIONAL MAGNETOHYDRODYNAMICS
+
+    -   Lectures on computational best practices, Unix, Fortran, Git,
+        HPC, MPI & OpenMP
+    -   With prof. dr. ir. G.T.A. Huijsmans
+
+2015 - 2019
+
+    STUDENT SUPERVISION
+
+    -   Master thesis on kinetic modelling of neutral deuterium in
+        tokamaks
+    -   Master thesis on fluid modelling of neutral deuterium in
+        tokamaks
+    -   Master thesis on impurity-dependence of the tokamak density
+        limit
+    -   Master internships on low-discrepancy sequences, physical
+        sputtering
+
+
 Projects
 
 2018 - Current
 
-    KRAEMER
-
-    _High-frequency crypto arbitrage trading bot_
+    KRAEMER _High-frequency crypto-currency arbitrage trading bot_
 
     -   Co-created with Toon Weyens
     -   Arbitrage trading within and between multiple crypto-currency
@@ -134,22 +162,44 @@ Projects
     -   Works on mobile devices, without installation (for use in
         progressive web apps)
 
-2018
+2017
+
+    DATABASE DESIGN FOR GKDB
+
+    -   GyroKineticDataBase, storing (non-)linear gyrokinetic simulation
+        results for fusion
+    -   Flexible storage scheme for different codes implemented in
+        PostgreSQL
+
+2017
 
     HUMAN-READABLE COMPRESSION OF ls OUTPUT: LSDEFLATE
 
-    -   Find sequences of files, and display them in a compressed
-        format, like file{001..100}.dat
+    -   Simplify ls output with a compressed format, like
+        file{001..100}.dat
 
 2017
 
     LOW-DISCREPANCY SEQUENCES FOR MONTE-CARLO SIMULATIONS
 
     -   Implemented Sobol’ sequence generators in Fortran
-    -   Improved convergence on Monte-Carlo simulations from N-1/2 to
-        N-1 compared against [PCG32
-        RNG](https://github.com/Exteris/pcg32-fortran]
+    -   Improved Monte-Carlo convergence from N-1/2 to N-1 vs PCG32 RNG
     -   Special emphasis on parallel usage with strided generators
+
+2015
+
+    LETS _Activity planner for sports and events_
+
+    -   Notification-based invitation system for events
+    -   iOS, Android phonegap apps + web
+
+2014 - 2015
+
+    OWE _group payment tracker_
+
+    -   Track balances between users in a weighted graph
+    -   Propose transaction-free settlements
+    -   iOS, Android phonegap apps, web portal
 
 2013 - 2017
 
@@ -160,11 +210,27 @@ Projects
     -   Authenticated card charging by servers, analysis tool for
         treasurer
 
+2013 - 2014
+
+    CCEXCHANGE
+
+    -   A trustworthy crypto-currency exchange based in NL
+    -   Ruby on Rails, PostgreSQL with a state-of-the-art trade
+        execution engine in C
+    -   Abandoned due to regulatory uncertainty
+
+2012
+
+    AD-HOC MESH NETWORK FOR COMMUNICATION AND LOCALISATION
+
+    -   Useful in situations with poor internet connectivity
+    -   Like FireChat (released 2014)
+    -   Created feasibility study and intellectual property protection
+        plan
+
 2010 - 2011
 
-    PIRAAT
-
-    _Point-of-Sale system for study association bar_
+    PIRAAT _Point-of-Sale system for study association bar_
 
     -   Central application server (python) and database with paper
         trail
@@ -172,7 +238,7 @@ Projects
     -   User-interface optimized for speed even with large menus
     -   Resilient to network failure
     -   Cross-compile and deploy client to Android or embedded systems
-    -   Has processed over 280 000 &eur; in payments
+    -   Has processed over 280 000 € in payments
 
 ------------------------------------------------------------------------
 
@@ -205,9 +271,9 @@ Programming
 
     -   FORTRAN · HPC application such as JOREK in modern Fortran
         (2003+)
-    -   MPI, OPENMP · Parallelization for HPC
     -   PYTHON · Numpy, scipy, numba, cython, matplotlib, pandas,
         asyncio, …
+    -   MPI, OPENMP · Parallelization for HPC
     -   RUBY · Ruby on Rails and other tools for web
     -   MATLAB (& octave) · Data analysis, quick computations
     -   MATHEMATICA · Symbolic computing
@@ -218,7 +284,8 @@ Programming
     -   PERL · Perfect for text manipulation
     -   SQL · With experience in database design and performance
         optimisation
-    -   JS · Interactivity in web pages
+    -   JAVASCRIPT (JS) · Interactivity in web pages (with jQuery,
+        React, Angular, Blaze and D3.js)
     -   BASH, FISH, MAKE, … · daily scripting and development
 
 ------------------------------------------------------------------------

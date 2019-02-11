@@ -15,3 +15,5 @@ See latest master on [cv.daanvanvugt.nl](https://cv.daanvanvugt.nl)
         - `cd puppeteer`
         - `npm i puppeteer`
         - `cd ../`
+    - For problems with a sandbox you can run (as root)
+        - `echo 1 > /proc/sys/kernel/unprivileged_userns_clone`
