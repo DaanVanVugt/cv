@@ -42,7 +42,7 @@ Education
     - Specialisation in Science and Technology of Nuclear fusion
     - Thesis on "Nonlinear coupled MHD-kinetic particle simulations of heavy impurities in tokamak plasmas"
     - Extended the existing MHD code [JOREK](https://jorek.eu) with a kinetic particle transport model, with particle sputtering, reflection, ionisation, recombination, radiation, particle-background collisions and feedback to the MHD fluid.
-    - Spent two years at ITER Organization, site of the multi-billion dollar ITER tokamak
+    - Two years at ITER Organization, site of the multi-billion dollar ITER tokamak
     - Used modern Fortran, High-Performance Computing (HPC) techniques
 
 2012 - 2015
@@ -210,7 +210,7 @@ Computer
 :   * **[Linux](https://www.linux.org/)** · daily operating system
     * **[Vim](https://www.vim.org/)** · daily editor
     * **[LaTeX](https://www.latex-project.org/)** · preferred tool for documents
-    * **[HTML, CSS](https://www.w3.org/standards/webdesign/htmlcss)** · used for this curriculum vitae (with markdown → Pandoc)
+    * **Bash, Fish, Make, coreutils, ...** · daily scripting and development
     * **Microsoft Office** · Where useful
     * **[Git](https://git-scm.com/)** · For version control of virtually everything
     * **[ParaView](https://www.paraview.org/) and [VTK](https://vtk.org)** · Great 3D visualisation tools
@@ -225,12 +225,11 @@ Programming
     * **Mathematica** · Symbolic computing
     * **C** · Low-level language
     * **C++** · A higher-level C-like language
-    * **PHP, HTML** · For web development
+    * **PHP, HTML, CSS** · For web development
     * **Javascript (JS)** · Interactivity in web pages (with jQuery, React, Angular, Blaze and D3.js)
     * **SQL** · With experience in database design and performance optimisation
     * **Haskell** · Functional programming
     * **Perl** · Perfect for text manipulation
-    * **Bash**, **Fish**, **Make, ...** · daily scripting and development
 
 ----
 
