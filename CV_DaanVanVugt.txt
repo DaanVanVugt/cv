@@ -109,41 +109,47 @@ Projects
     -   Arbitrage trading within and between multiple crypto-currency
         exchanges
     -   High-speed data processing and trade evaluation in parallel
-    -   Collaborative project drawing from variety of expertises
+    -   Created cython lock-free parallel orderbook watcher for hundreds
+        of books
     -   Based on computational sciences & mathematicical and physical
         knowledge
-    -   Supported by state of the art cryptocurrency financial modelling
-        & deep learning strategies
+    -   Supported by modern cryptocurrency financial modelling & deep
+        learning strategies
 
 2018
 
     PARAVIEW PYTHON FILE READERS
 
-    -   Implemented a python programmable filter, which is configured to
-        act as a FileReader
+    -   Implemented a python programmable filter, configured to act as a
+        FileReader
     -   Easy and performant implementation of readers for arbitrary
         filetypes in ParaView
+    -   Outperforms previous 3D JOREK visualisation solution by ~100x
 
 2018
 
     PASSPORT MACHINE-READABLE-ZONE DETECTION
 
     -   Read the MRZ from passports and ID cards using Tesseract
-    -   Works on mobile devices, without installation
-    -   Source on Github
+    -   Works on mobile devices, without installation (for use in
+        progressive web apps)
 
 2018
 
     HUMAN-READABLE COMPRESSION OF ls OUTPUT: LSDEFLATE
 
-    -   Find sequences of files, and display them in a short way
+    -   Find sequences of files, and display them in a compressed
+        format, like file{001..100}.dat
 
 2017
 
     LOW-DISCREPANCY SEQUENCES FOR MONTE-CARLO SIMULATIONS
 
     -   Implemented Sobol’ sequence generators in Fortran
-    -   Improved convergence on some simulations from N-1/2 to N-1
+    -   Improved convergence on Monte-Carlo simulations from N-1/2 to
+        N-1 compared against [PCG32
+        RNG](https://github.com/Exteris/pcg32-fortran]
+    -   Special emphasis on parallel usage with strided generators
 
 2013 - 2017
 

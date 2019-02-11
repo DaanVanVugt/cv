@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Daan van Vugt" />
   <title>Daan van Vugt · CV</title>
-  <style type="text/css">
+  <style>
       code{white-space: pre-wrap;}
       span.smallcaps{font-variant: small-caps;}
       span.underline{text-decoration: underline;}
@@ -17,6 +17,14 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
 <link rel="stylesheet" href=https://use.fontawesome.com/releases/v5.0.13/css/all.css integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src='https://www.googletagmanager.com/gtag/js?id=UA-134162699-1'></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-134162699-1');
+  </script>
 </head>
 <body>
 <header id="title-block-header">
@@ -109,37 +117,38 @@
 <li>Co-created with Toon Weyens</li>
 <li>Arbitrage trading within and between multiple crypto-currency exchanges</li>
 <li>High-speed data processing and trade evaluation in parallel</li>
-<li>Collaborative project drawing from variety of expertises</li>
+<li>Created cython lock-free parallel orderbook watcher for hundreds of books</li>
 <li>Based on computational sciences &amp; mathematicical and physical knowledge</li>
-<li>Supported by state of the art cryptocurrency financial modelling &amp; deep learning strategies</li>
+<li>Supported by modern cryptocurrency financial modelling &amp; deep learning strategies</li>
 </ul>
 </dd>
 <dt>2018</dt>
-<dd><p><strong>ParaView Python File Readers</strong></p>
+<dd><p><strong><a href="https://github.com/Exteris/paraview-python-file-reader">ParaView Python File Readers</a></strong></p>
 <ul>
-<li>Implemented a python programmable filter, which is configured to act as a FileReader</li>
+<li>Implemented a python programmable filter, configured to act as a FileReader</li>
 <li>Easy and performant implementation of readers for arbitrary filetypes in ParaView</li>
+<li>Outperforms previous 3D JOREK visualisation solution by ~100x</li>
 </ul>
 </dd>
 <dt>2018</dt>
-<dd><p><strong>Passport Machine-Readable-Zone detection</strong></p>
+<dd><p><strong><a href="https://github.com/exteris/tesseract-mrz">Passport Machine-Readable-Zone detection</a></strong></p>
 <ul>
 <li>Read the MRZ from passports and ID cards using <a href="https://github.com/tesseract-ocr">Tesseract</a></li>
-<li>Works on mobile devices, without installation</li>
-<li><a href="https://github.com/exteris/tesseract-mrz">Source on Github</a></li>
+<li>Works on mobile devices, without installation (for use in progressive web apps)</li>
 </ul>
 </dd>
 <dt>2018</dt>
 <dd><p><strong>Human-readable compression of <code>ls</code> output: <a href="https://github.com/exteris/lsdeflate">lsdeflate</a></strong></p>
 <ul>
-<li>Find sequences of files, and display them in a short way</li>
+<li>Find sequences of files, and display them in a compressed format, like file{001..100}.dat</li>
 </ul>
 </dd>
 <dt>2017</dt>
 <dd><p><strong>Low-discrepancy sequences for Monte-Carlo simulations</strong></p>
 <ul>
 <li>Implemented <a href="https://github.com/Exteris/sobseq">Sobol’ sequence generators in Fortran</a></li>
-<li>Improved convergence on some simulations from N<sup>-1/2</sup> to N<sup>-1</sup></li>
+<li>Improved convergence on Monte-Carlo simulations from N<sup>-1/2</sup> to N<sup>-1</sup> compared against [PCG32 RNG](https://github.com/Exteris/pcg32-fortran]</li>
+<li>Special emphasis on parallel usage with strided generators</li>
 </ul>
 </dd>
 <dt>2013 - 2017</dt>

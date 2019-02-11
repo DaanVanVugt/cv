@@ -91,33 +91,34 @@ Projects
     - Co-created with Toon Weyens
     - Arbitrage trading within and between multiple crypto-currency exchanges
     - High-speed data processing and trade evaluation in parallel
-    - Collaborative project drawing from variety of expertises
+    - Created cython lock-free parallel orderbook watcher for hundreds of books
     - Based on computational sciences & mathematicical and physical knowledge
-    - Supported by state of the art cryptocurrency financial modelling & deep learning strategies
+    - Supported by modern cryptocurrency financial modelling & deep learning strategies
 
 2018
-:   **ParaView Python File Readers**
+:   **[ParaView Python File Readers](https://github.com/Exteris/paraview-python-file-reader)**
 
-    - Implemented a python programmable filter, which is configured to act as a FileReader
+    - Implemented a python programmable filter, configured to act as a FileReader
     - Easy and performant implementation of readers for arbitrary filetypes in ParaView
+    - Outperforms previous 3D JOREK visualisation solution by ~100x
 
 2018
-:   **Passport Machine-Readable-Zone detection**
+:   **[Passport Machine-Readable-Zone detection](https://github.com/exteris/tesseract-mrz)**
     
     - Read the MRZ from passports and ID cards using [Tesseract](https://github.com/tesseract-ocr)
-    - Works on mobile devices, without installation
-    - [Source on Github](https://github.com/exteris/tesseract-mrz)
+    - Works on mobile devices, without installation (for use in progressive web apps)
 
 2018
 :  **Human-readable compression of `ls` output: [lsdeflate](https://github.com/exteris/lsdeflate)**
 
-    - Find sequences of files, and display them in a short way
+    - Find sequences of files, and display them in a compressed format, like file{001..100}.dat
 
 2017
 :   **Low-discrepancy sequences for Monte-Carlo simulations**
 
     - Implemented [Sobol' sequence generators in Fortran](https://github.com/Exteris/sobseq)
-    - Improved convergence on some simulations from N<sup>-1/2</sup> to N<sup>-1</sup>
+    - Improved convergence on Monte-Carlo simulations from N<sup>-1/2</sup> to N<sup>-1</sup> compared against [PCG32 RNG](https://github.com/Exteris/pcg32-fortran]
+    - Special emphasis on parallel usage with strided generators
 
 2013 - 2017
 :   **RFID payments for PIRAAT**

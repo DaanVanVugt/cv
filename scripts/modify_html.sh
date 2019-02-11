@@ -18,6 +18,21 @@ headend_line=$(grep -n -m 1 '<\/head' index.html | cut -f1 -d":")
 fontawesome_url="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
 sed -i ${headend_line}"i  <link rel=\"stylesheet\" href=$(sed 's|/|\\/|g' <<< ${fontawesome_url}) integrity=\"sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp\" crossorigin=\"anonymous\">" index.html
 
+echo 'add google analytics to head'
+headend_line=$(grep -n -m 1 '<\/head' index.html | cut -f1 -d":")
+cat > tmp_ga.html << 'EOF'
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src='https://www.googletagmanager.com/gtag/js?id=UA-134162699-1'></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-134162699-1');
+  </script>
+EOF
+sed -i $(($headend_line - 1))"r tmp_ga.html" index.html
+rm tmp_ga.html
+
 echo 'add media logos'
 # set up variables
 nr_media=2
