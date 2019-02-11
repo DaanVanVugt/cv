@@ -112,7 +112,7 @@ Projects
     - Arbitrage trading within and between multiple crypto-currency exchanges
     - High-speed data processing and trade evaluation in parallel
     - Created cython lock-free parallel orderbook watcher for hundreds of books
-    - Based on computational sciences & mathematicical and physical knowledge
+    - Based on computational sciences & mathematical and physical knowledge
     - Supported by modern cryptocurrency financial modelling & deep learning strategies
 
 2018
