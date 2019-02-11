@@ -221,15 +221,15 @@ Programming
     * **Python** · Numpy, scipy, numba, cython, matplotlib, pandas, asyncio, ...
     * **MPI**, **OpenMP** · Parallelization for HPC
     * **Ruby** · Ruby on Rails and other tools for web
-    * **MATLAB** (& octave) · Data analysis, quick computations
+    * **MATLAB** · Data analysis, quick computations
     * **Mathematica** · Symbolic computing
     * **C** · Low-level language
     * **C++** · A higher-level C-like language
-    * **Haskell** · Functional programming
-    * **PHP** · For web development
-    * **Perl** · Perfect for text manipulation
-    * **SQL** · With experience in database design and performance optimisation
+    * **PHP, HTML** · For web development
     * **Javascript (JS)** · Interactivity in web pages (with jQuery, React, Angular, Blaze and D3.js)
+    * **SQL** · With experience in database design and performance optimisation
+    * **Haskell** · Functional programming
+    * **Perl** · Perfect for text manipulation
     * **Bash**, **Fish**, **Make, ...** · daily scripting and development
 
 ----

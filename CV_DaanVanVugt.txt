@@ -68,8 +68,10 @@ Education
         at ASML Research (grade: 9)
 
 2012 - 2013
-    CERTIFICATE TECHNICAL MANAGEMENT _Eindhoven University of
-    Technology_
+
+    CERTIFICATE TECHNICAL MANAGEMENT
+
+    _Eindhoven University of Technology_
 
 2009 - 2012
 
@@ -139,7 +141,7 @@ Projects
     -   High-speed data processing and trade evaluation in parallel
     -   Created cython lock-free parallel orderbook watcher for hundreds
         of books
-    -   Based on computational sciences & mathematicical and physical
+    -   Based on computational sciences & mathematical and physical
         knowledge
     -   Supported by modern cryptocurrency financial modelling & deep
         learning strategies
@@ -275,17 +277,17 @@ Programming
         asyncio, …
     -   MPI, OPENMP · Parallelization for HPC
     -   RUBY · Ruby on Rails and other tools for web
-    -   MATLAB (& octave) · Data analysis, quick computations
+    -   MATLAB · Data analysis, quick computations
     -   MATHEMATICA · Symbolic computing
     -   C · Low-level language
     -   C++ · A higher-level C-like language
-    -   HASKELL · Functional programming
-    -   PHP · For web development
-    -   PERL · Perfect for text manipulation
-    -   SQL · With experience in database design and performance
-        optimisation
+    -   PHP, HTML · For web development
     -   JAVASCRIPT (JS) · Interactivity in web pages (with jQuery,
         React, Angular, Blaze and D3.js)
+    -   SQL · With experience in database design and performance
+        optimisation
+    -   HASKELL · Functional programming
+    -   PERL · Perfect for text manipulation
     -   BASH, FISH, MAKE, … · daily scripting and development
 
 ------------------------------------------------------------------------
