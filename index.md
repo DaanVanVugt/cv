@@ -55,6 +55,7 @@ Education
 
 2012 - 2013
 :   **Certificate Technical Management**
+
     *[Eindhoven University of Technology](https://www.tue.nl/)*
 
 2009 - 2012
