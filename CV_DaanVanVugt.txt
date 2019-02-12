@@ -53,9 +53,11 @@ Education
         transport model, with particle sputtering, reflection,
         ionisation, recombination, radiation, particle-background
         collisions and feedback to the MHD fluid.
-    -   Two years at ITER Organization, site of the multi-billion dollar
-        ITER tokamak
+    -   In collaboration with ITER Organization, site of the
+        multi-billion dollar ITER tokamak
     -   Used modern Fortran, High-Performance Computing (HPC) techniques
+    -   ‘Big Data’ approach for analysis of terabytes of particle
+        trajectories
 
 2012 - 2015
 
@@ -236,10 +238,9 @@ Projects
 
     -   Central application server (python) and database with paper
         trail
-    -   Multiple clients (C++, Qt) with floating accounts
-    -   User-interface optimized for speed even with large menus
+    -   Multiple clients (C++, Qt on Windows Embedded CE or Android)
+    -   User-interface optimized for efficiency even with large menus
     -   Resilient to network failure
-    -   Cross-compile and deploy client to Android or embedded systems
     -   Has processed over 280 000 € in payments
 
 ------------------------------------------------------------------------
@@ -259,10 +260,10 @@ Languages
 
 Computer
 
-    -   LINUX · daily operating system
-    -   VIM · daily editor
-    -   LATEX · preferred tool for documents
-    -   BASH, FISH, MAKE, COREUTILS, … · daily scripting and development
+    -   LINUX · Daily operating system (Arch)
+    -   VIM · Daily editor
+    -   LATEX · Publication-quality documents
+    -   BASH, FISH, MAKE, COREUTILS, … · Daily scripting and development
     -   MICROSOFT OFFICE · Where useful
     -   GIT · For version control of virtually everything
     -   PARAVIEW AND VTK · Great 3D visualisation tools
@@ -272,17 +273,17 @@ Programming
 
     -   FORTRAN · HPC application such as JOREK in modern Fortran
         (2003+)
-    -   PYTHON · Numpy, scipy, numba, cython, matplotlib, pandas,
+    -   PYTHON · Numpy, scipy, numba, cython, matplotlib, dask, pandas,
         asyncio, …
     -   MPI, OPENMP · Parallelization for HPC
-    -   RUBY · Ruby on Rails and other tools for web
+    -   RUBY · Ruby on Rails, tools for web, GPS file analysis
     -   MATLAB · Data analysis, quick computations
-    -   MATHEMATICA · Symbolic computing
-    -   C · Low-level language
+    -   C · Computing close to the metal
     -   C++ · A higher-level C-like language
+    -   MATHEMATICA · Symbolic computing, Fortran code generation
     -   PHP, HTML, CSS · For web development
     -   JAVASCRIPT (JS) · Interactivity in web pages (with jQuery,
-        React, Angular, Blaze and D3.js)
+        React, Angular, Blaze, D3.js)
     -   SQL · With experience in database design and performance
         optimisation
     -   HASKELL · Functional programming
@@ -300,7 +301,7 @@ Awards
 
     1ST PLACE IN UNITED 4 SAILING SPLASH RANKING
 
-    36th at Splash world championship**
+    36th at Splash world championship
 
 2007
 

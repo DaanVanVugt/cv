@@ -42,8 +42,9 @@ Education
     - Specialisation in Science and Technology of Nuclear fusion
     - Thesis on "Nonlinear coupled MHD-kinetic particle simulations of heavy impurities in tokamak plasmas"
     - Extended the existing MHD code [JOREK](https://jorek.eu) with a kinetic particle transport model, with particle sputtering, reflection, ionisation, recombination, radiation, particle-background collisions and feedback to the MHD fluid.
-    - Two years at ITER Organization, site of the multi-billion dollar ITER tokamak
+    - In collaboration with ITER Organization, site of the multi-billion dollar ITER tokamak
     - Used modern Fortran, High-Performance Computing (HPC) techniques
+    - 'Big Data' approach for analysis of terabytes of particle trajectories
 
 2012 - 2015
 :   **Master of Science (Cum Laude) in [Applied Physics](https://www.tue.nl/en/education/graduate-school/master-applied-physics/)**
@@ -187,10 +188,9 @@ Projects
     *Point-of-Sale system for study association bar*
 
     - Central application server (python) and database with paper trail
-    - Multiple clients (C++, Qt) with floating accounts
-    - User-interface optimized for speed even with large menus
+    - Multiple clients (C++, Qt on Windows Embedded CE or Android)
+    - User-interface optimized for efficiency even with large menus
     - Resilient to network failure
-    - Cross-compile and deploy client to Android or embedded systems
     - Has processed over 280 000 € in payments
 
 ----
@@ -207,10 +207,10 @@ Languages
     | Spanish    | ★☆☆☆☆ |
 
 Computer
-:   * **[Linux](https://www.linux.org/)** · daily operating system
-    * **[Vim](https://www.vim.org/)** · daily editor
-    * **[LaTeX](https://www.latex-project.org/)** · preferred tool for documents
-    * **Bash, Fish, Make, coreutils, ...** · daily scripting and development
+:   * **[Linux](https://www.linux.org/)** · Daily operating system (Arch)
+    * **[Vim](https://www.vim.org/)** · Daily editor
+    * **[LaTeX](https://www.latex-project.org/)** · Publication-quality documents
+    * **Bash, Fish, Make, coreutils, ...** · Daily scripting and development
     * **Microsoft Office** · Where useful
     * **[Git](https://git-scm.com/)** · For version control of virtually everything
     * **[ParaView](https://www.paraview.org/) and [VTK](https://vtk.org)** · Great 3D visualisation tools
@@ -218,15 +218,15 @@ Computer
 
 Programming
 :   * **Fortran** · HPC application such as [JOREK](https://jorek.eu/) in modern Fortran (2003+)
-    * **Python** · Numpy, scipy, numba, cython, matplotlib, pandas, asyncio, ...
+    * **Python** · Numpy, scipy, numba, cython, matplotlib, dask, pandas, asyncio, ...
     * **MPI**, **OpenMP** · Parallelization for HPC
-    * **Ruby** · Ruby on Rails and other tools for web
+    * **Ruby** · Ruby on Rails, tools for web, GPS file analysis
     * **MATLAB** · Data analysis, quick computations
-    * **Mathematica** · Symbolic computing
-    * **C** · Low-level language
+    * **C** · Computing close to the metal
     * **C++** · A higher-level C-like language
+    * **Mathematica** · Symbolic computing, Fortran code generation
     * **PHP, HTML, CSS** · For web development
-    * **Javascript (JS)** · Interactivity in web pages (with jQuery, React, Angular, Blaze and D3.js)
+    * **Javascript (JS)** · Interactivity in web pages (with jQuery, React, Angular, Blaze, D3.js)
     * **SQL** · With experience in database design and performance optimisation
     * **Haskell** · Functional programming
     * **Perl** · Perfect for text manipulation
@@ -241,7 +241,7 @@ Awards
 2009
 :   **1<sup>st</sup> place in United 4 Sailing Splash ranking**
 
-    36<sup>th</sup> at Splash world championship**
+    36<sup>th</sup> at Splash world championship
 
 2007
 :   **1<sup>st</sup> place at the German Open Splash sailing championship**
