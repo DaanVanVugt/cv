@@ -236,7 +236,7 @@ Projects
 
     PIRAAT _Point-of-Sale system for study association bar_
 
-    -   Central application server (python) and database with paper
+    -   Central application server (Python) and database with paper
         trail
     -   Multiple clients (C++, Qt on Windows Embedded CE or Android)
     -   User-interface optimized for efficiency even with large menus
@@ -287,7 +287,7 @@ Programming
     -   SQL · With experience in database design and performance
         optimisation
     -   HASKELL · Functional programming
-    -   PERL · Perfect for text manipulation
+    -   PERL · Great for text manipulation
 
 ------------------------------------------------------------------------
 

@@ -187,7 +187,7 @@ Projects
 :   **PIRAAT**
     *Point-of-Sale system for study association bar*
 
-    - Central application server (python) and database with paper trail
+    - Central application server (Python) and database with paper trail
     - Multiple clients (C++, Qt on Windows Embedded CE or Android)
     - User-interface optimized for efficiency even with large menus
     - Resilient to network failure
@@ -229,7 +229,7 @@ Programming
     * **Javascript (JS)** · Interactivity in web pages (with jQuery, React, Angular, Blaze, D3.js)
     * **SQL** · With experience in database design and performance optimisation
     * **Haskell** · Functional programming
-    * **Perl** · Perfect for text manipulation
+    * **Perl** · Great for text manipulation
 
 ----
 
